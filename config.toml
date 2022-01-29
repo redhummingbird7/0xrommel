@@ -44,8 +44,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
-  title = "0xrommel.dev" # Logo title, otherwise will use site title
+  image = "img/0xrommel.png" # Logo image. Path relative to "static"
+  # title = "0xrommel.dev" # Logo title, otherwise will use site title
   # subtitle = "Just another site" # Logo subtitle
 
 [Params.thumbnail]
