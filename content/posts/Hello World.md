@@ -1,13 +1,13 @@
 ---
 # Common-Defined params
-title: "Test Article"
-date: "2022-01-29"
-description: "Example article description"
+title: "Hello World"
+date: "2022-01-28"
+description: "Firt Post on My New Site"
 categories:
-  - "Category 1"
+  - "Technology"
 tags:
-  - "Test"
-  - "Another test"
+  - "Technology"
+  - "Blogging"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
@@ -25,10 +25,17 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
-Testing. Hello World.
+Hi There,
 
-2nd line
+Welcome to my blog.
 
-3rd line.
+Hope you like it. Just want to get the first post out of the way.
 
-The end.
+Here's where I'll blog about technology mostly.
+
+Thanks for visiting! :)
+
+Bye,\
+Rommel
+
+![0xrommel logo](/img/0xrommel.png "oxrommel.dev logo")
