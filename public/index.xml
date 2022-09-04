@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mainroad</title>
+    <title>0xrommel.dev</title>
     <link>/</link>
-    <description>Recent content on Mainroad</description>
+    <description>Recent content on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jan 2022 21:41:36 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 22 Jan 2022 21:41:36 -0800</pubDate>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description>Testing. Hello World.
-2nd line
-3rd line.
-The end.</description>
+      <guid>/posts/hello-world/</guid>
+      <description>Hi There,
+Welcome to my blog.
+Hope you like it. Just want to get the first post out of the way.
+Here&amp;rsquo;s where I&amp;rsquo;ll blog about technology mostly.
+Thanks for visiting! :) :)
+Bye,
+Rommel</description>
     </item>
     
   </channel>
