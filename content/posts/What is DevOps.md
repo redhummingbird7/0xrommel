@@ -36,6 +36,8 @@ Developers are usually the most concerned with the development process. This is 
 
 DevOps originated in 2009 when Patrick Debois started a discussion on Twitter about how developers should be able to deploy code without IT’s help. It was then coined as "devops."
 
+![What is DevOps](/img/what-is-devops.png "what is devops")
+
 ## What are the Benefits of DevOps?
 
 DevOps is a framework that helps in the development and deployment of software. It is a combination of two words, “development” and “operations”.
@@ -63,5 +65,3 @@ CD stands for Continuous Delivery which is a set of principles that guide an org
 ## Conclusion: The Future of DevOps
 
 DevOps is an ever-changing and evolving field, with new technologies being developed at a rapid pace. This article has explored some of the latest trends in DevOps and how they will shape the future of the field.
-
-![0xrommel logo](/img/0xrommel.png "oxrommel.dev logo")
