@@ -25,9 +25,9 @@ widgets: # Enable sidebar widgets in given order per page
   - "taglist"
 ---
 
-Hi There,
+**Hi There,**
 
-Welcome to my blog.
+Welcome to my **blog**.
 
 Hope you like it. Just want to get the first post out of the way.
 

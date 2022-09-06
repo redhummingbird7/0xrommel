@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0xrommel.dev</title>
-    <link>/</link>
-    <description>Recent content on 0xrommel.dev</description>
+    <title>Software Engineering on 0xrommel.dev</title>
+    <link>/categories/software-engineering/</link>
+    <description>Recent content in Software Engineering on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is DevOps and Why it Matters for IT</title>
       <link>/posts/what-is-devops/</link>
@@ -15,21 +15,6 @@
       <guid>/posts/what-is-devops/</guid>
       <description>What is Devops? DevOps is a set of principles and practices that emphasize communication, collaboration, integration, and automation between software developers and information technology (IT) professionals.
 The idea behind devops is to provide a more efficient way of managing the application lifecycle through automation. This saves time for both team members as well as customers by ensuring that there are fewer errors in production. Devops includes many different practices such as Continuous Integration, Continuous Delivery, Infrastructure as Code, Version Control Systems like Git or SVN, Automated Testing Tools like Selenium or Appium etc.</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>/posts/hello-world/</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hello-world/</guid>
-      <description>Hi There,
-Welcome to my blog.
-Hope you like it. Just want to get the first post out of the way.
-Here&amp;rsquo;s where I&amp;rsquo;ll blog about technology mostly.
-Thanks for visiting! :) :)
-Bye,
-Rommel</description>
     </item>
     
   </channel>
