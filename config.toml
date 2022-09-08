@@ -7,7 +7,7 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "0xrommel"
+  name = "0xRommel"
   bio = "Rommel is a just another software engineer who wants to write about technology, systems and software."
   avatar = "img/redhummingbird.png"
 
@@ -47,7 +47,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   image = "img/0xrommel.png" # Logo image. Path relative to "static"
   title = false
   # title = "0xrommel.dev" # Logo title, otherwise will use site title
-  # subtitle = "Just another site" # Logo subtitle
+  # subtitle = "Design. Code. Eat." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
