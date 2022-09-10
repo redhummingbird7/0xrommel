@@ -10,6 +10,7 @@ tags:
   - "Technology"
   - "Software Engineering"
   - "AI Writer"
+  - "Autoblogging"
   - "service oriented architecture"
   - "SOA"
   - "software architecture"
