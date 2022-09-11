@@ -106,13 +106,13 @@ The impact filter really makes it easy for you to define and articulate what you
 - Looking ahead at the next quarter, what new developments, projects, or goals are giving you the greatest sense of excitement?
 - What are the five new "jumps" (progress) you can now achieve that will make your next 90 days a great quarter regardless of what else happens?
 
-The MF idea is very similar to the "retrospective" idea used in **Agile**. A look back into the past to see what worked well and what needs improvement is quite helpful.
+The MF idea is very similar to the "retrospective" idea used in **Agile/Scrum** ceremonies. A look back into the past to see what worked well and what needs improvement is quite helpful.
 
-## 3. What I don't like about it
+## 3. Some Comments
 
-The book is a great read. I highly recommend it to everyone. One minor thing I kind of don't like is sometimes the book sounds like a big advertisement to the authors' "Strategic Coach" coaching service.
+The book is a great read. I highly recommend it to everyone.
 
-I think hiring a "coach" is great if you have the money. But, sometimes some coaches do charge so much but are not worth it. Also, I think having a mentor and a mastermind group can also be a good "who" or a team of "whos" that can help without the need to hire a coach.
+One minor thing I kind of don't like is sometimes the book sounds like a big advertisement to the authors' "Strategic Coach" coaching service.
 
 ## 4. Where to Buy
 
