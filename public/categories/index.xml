@@ -6,13 +6,40 @@
     <description>Recent content in Categories on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Review</title>
+      <link>/categories/book-review/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/book-review/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Software Engineering</title>
       <link>/categories/software-engineering/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Career</title>
+      <link>/categories/it-career/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/it-career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Technology</title>
+      <link>/categories/blockchain-technology/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blockchain-technology/</guid>
       <description></description>
     </item>
     

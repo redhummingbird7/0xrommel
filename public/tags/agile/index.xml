@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile on 0xrommel.dev</title>
+    <link>/tags/agile/</link>
+    <description>Recent content in Agile on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Agile Methodology?</title>
+      <link>/posts/what-is-agile-methodology/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-agile-methodology/</guid>
+      <description>What is agile methodology? The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
+Agile is a powerful mindset that simplified not only the world of software development, but is working for many times outside the IT sector.</description>
+    </item>
+    
+  </channel>
+</rss>

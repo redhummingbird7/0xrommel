@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Microservices vs Monolith Application - 0xrommel.dev</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="Microservices VS Monolith Application">
+		<meta property="og:title" content="Microservices vs Monolith Application" />
+<meta property="og:description" content="Microservices VS Monolith Application" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/microservices-vs-monolith/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-31T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-07-31T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="Microservices vs Monolith Application">
+<meta itemprop="description" content="Microservices VS Monolith Application"><meta itemprop="datePublished" content="2022-07-31T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-07-31T00:00:00+00:00" />
+<meta itemprop="wordCount" content="2321">
+<meta itemprop="keywords" content="Technology,Software Engineering,AI Writer,Microservices,Monolith,Software Architecture," />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Microservices vs Monolith Application"/>
+<meta name="twitter:description" content="Microservices VS Monolith Application"/>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/0xrommel.png">
+				</div>
+		</a>
+	</div>
+		<div class="divider"></div>
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Microservices vs Monolith Application</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">0xRommel</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2022-07-31T00:00:00Z">2022-07-31</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/software-engineering/" rel="category">Software Engineering</a>
+	</span>
+</div></div>
+		</header>
+		
+<div class="post__toc toc">
+	<div class="toc__title">Page content</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-are-microservices">What are Microservices?</a></li>
+    <li><a href="#is-monolithic-architecture-bad">Is Monolithic Architecture bad?</a></li>
+    <li><a href="#whats-wrong-with-monolithic-architecture">What&rsquo;s wrong with monolithic architecture?</a></li>
+    <li><a href="#what-are-microservices-1">What are Microservices?</a></li>
+    <li><a href="#what-problems-are-microservices-architecture-facing">What problems are microservices architecture facing?</a></li>
+    <li><a href="#what-are-monolithic-applications">What are monolithic applications?</a></li>
+    <li><a href="#how-to-build-a-monolithic-application">How to build a monolithic application</a></li>
+    <li><a href="#how-to-improve-a-monolithic-application">How to improve a monolithic application</a></li>
+    <li><a href="#is-a-microservices-architecture-suitable-for-my-application">Is a microservices architecture suitable for my application?</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<p>What are <strong>microservices</strong>? How do they relate to other architectures? Is the monolith vs. microservices question resolved? What are the downsides of using microservices architecture? Let&rsquo;s get to it!</p>
+<p><img src="/img/microservices_vs_monolith.jpg" alt="Microservices vs monolith" title="Microservices vs monolith"></p>
+<h2 id="what-are-microservices">What are Microservices?</h2>
+<p>Microservices, as defined by James Marten, are small units of software, built around a single business capability. These are typically encapsulated and self-contained. Each unit, even if it is very small, is completely reusable. A set of microservices is called a domain.</p>
+<p>You might wonder why we&rsquo;re building microservices in the first place. After all, it&rsquo;s not a new idea. Microservices architecture became popular after the emergence of the cloud computing. In short, there&rsquo;s no reason to not use them.</p>
+<p>However, there&rsquo;s a lot of hype around them. They&rsquo;re often mentioned along with other buzzwords such as cloud computing, containers and microservices.</p>
+<h2 id="is-monolithic-architecture-bad">Is Monolithic Architecture bad?</h2>
+<p>If you&rsquo;re building a monolithic application you&rsquo;ve used all the tools and architecture and know what it entails.</p>
+<p>But does that mean the monolithic architecture is not appropriate? Does it mean monolithic applications are wrong? No, not at all. They are appropriate for certain use cases, but there are other architectures that are better for the requirements you have.</p>
+<h2 id="whats-wrong-with-monolithic-architecture">What&rsquo;s wrong with monolithic architecture?</h2>
+<p>First of all, it has the most problems:</p>
+<p>Inability to scale across different instances. If you need to scale the application to millions of users then it is time to make changes to your architecture and use other tools. However, if you need to scale it across different regions, you won&rsquo;t have any other option than a different architecture.</p>
+<p>Big app, little pieces of software. Big apps are hard to maintain because everything must be managed and updated. Smaller pieces of software can evolve quickly and will save you a lot of time and cost.</p>
+<p>Big apps are hard to maintain because everything must be managed and updated. Smaller pieces of software can evolve quickly and will save you a lot of time and cost. Over-engineering. As the big application grows you&rsquo;ll need more than one person to build and maintain it.</p>
+<p>As the big application grows you&rsquo;ll need more than one person to build and maintain it. Over-engineering. As the big application grows you&rsquo;ll need more than one person to build and maintain it. Inability to scale across different languages. If you need to scale the application across different languages you will have to build a separate instance of the application for each language.</p>
+<p>If you need to scale the application across different languages you will have to build a separate instance of the application for each language. Inability to reuse code. Once the application is created and is ready to be released you can&rsquo;t easily reuse the code you&rsquo;ve created. You will need to rewrite the code to use the new APIs, which is a big waste of time.</p>
+<p>Once the application is created and is ready to be released you can&rsquo;t easily reuse the code you&rsquo;ve created. You will need to rewrite the code to use the new APIs, which is a big waste of time. Poor code quality. Big applications often have legacy code that is tightly coupled and there is no chance to refactor it. New development will be forced to use this poor quality code, which makes development even more difficult.</p>
+<p>Big applications often have legacy code that is tightly coupled and there is no chance to refactor it. New development will be forced to use this poor quality code, which makes development even more difficult. Slow to adapt. When you&rsquo;re building a big application you don&rsquo;t have many options. There&rsquo;s no way to easily adapt to changing conditions and to new technology without rewriting a lot of code.</p>
+<p>When you&rsquo;re building a big application you don&rsquo;t have many options. There&rsquo;s no way to easily adapt to changing conditions and to new technology without rewriting a lot of code. Costs. Large applications take a lot of effort to design, code and deploy. You have to pay a lot of time and cost to build it.</p>
+<h2 id="what-are-microservices-1">What are Microservices?</h2>
+<p>A microservices architecture separates the application into individual pieces called microservices.</p>
+<p>While monolithic architecture may require a lot of effort to build, develop and deploy, the microservices architecture is designed to work out of the box. It does not require you to rewrite a lot of code to adapt to a new technology, condition, or business demand.</p>
+<p>It is also much easier to maintain. As each microservice is small, you have more time to work on it and to update it.</p>
+<p>However, as James Marten says:</p>
+<p>I don&rsquo;t just mean that the implementation is better. I mean that the design of the architecture is better. I mean that the application can be built and deployed much more quickly.</p>
+<h2 id="what-problems-are-microservices-architecture-facing">What problems are microservices architecture facing?</h2>
+<p>There are a few problems with the microservices architecture:</p>
+<p>Increased overhead. Creating a monolithic application is easier. It&rsquo;s easier to test, version and deploy. You won&rsquo;t need to deploy multiple instances and it&rsquo;s easier to maintain. However, the architecture itself can become complex. Each service will have its own database, API, data storage, logging, etc. This can result in increased latency and more effort to maintain the application.</p>
+<p>Creating a monolithic application is easier. It&rsquo;s easier to test, version and deploy. You won&rsquo;t need to deploy multiple instances and it&rsquo;s easier to maintain. However, the architecture itself can become complex. Each service will have its own database, API, data storage, logging, etc. This can result in increased latency and more effort to maintain the application. Increased complexity. Managing individual services can be a pain. You will have to manage communication between services. For example, if one service doesn&rsquo;t notify other services it will have to build something to communicate with the other services. This can also create some issues: A lot of messages can be sent if services don&rsquo;t know how to communicate with each other. If a service communicates with another service that does not exist you will need to find the API and develop an interface to expose the API to the end user. Service management tools may not be available for all languages, so you might need to write code to create interfaces. If you&rsquo;re building a service to be used by a lot of developers you might need to ensure the service interface is clear and understandable, especially for non-technical people.</p>
+<p>Managing individual services can be a pain. You will have to manage communication between services. For example, if one service doesn&rsquo;t notify other services it will have to build something to communicate with the other services. This can also create some issues: A lot of messages can be sent if services don&rsquo;t know how to communicate with each other. If a service communicates with another service that does not exist you will need to find the API and develop an interface to expose the API to the end user. Service management tools may not be available for all languages, so you might need to write code to create interfaces. If you&rsquo;re building a service to be used by a lot of developers you might need to ensure the service interface is clear and understandable, especially for non-technical people. Less maintainable. Microservices architecture is much more difficult to maintain, in both implementation and design. Each service will be tightly coupled to its dependencies, and may require a lot of rework to be changed. This will require a lot of effort from developers to change the code of a service or its dependencies, as well as test the application.</p>
+<p>Microservices architecture is much more difficult to maintain, in both implementation and design. Each service will be tightly coupled to its dependencies, and may require a lot of rework to be changed. This will require a lot of effort from developers to change the code of a service or its dependencies, as well as test the application. Increased deployment time. Deploying a microservices architecture is more complex than a monolithic architecture. With a monolithic application you only need to deploy one instance. However, to deploy a microservices architecture you need to deploy multiple instances for each service. You might also have to deploy new instances of other services. This will require more time and effort to deploy the application, and to update it if the application needs to change.</p>
+<p>Deploying a microservices architecture is more complex than a monolithic application. With a monolithic application you only need to deploy one instance. However, to deploy a microservices architecture you need to deploy multiple instances for each service. You might also have to deploy new instances of other services. This will require more time and effort to deploy the application, and to update it if the application needs to change. Increased overhead. If your microservices are small you can deploy them independently. However, as the microservices become more complex, you&rsquo;ll need to work on a lot of services at once. This will require time to update the services and to deploy them to production.</p>
+<p>Microservices may seem like a good fit for some companies, but the question remains: Is the microservices architecture suitable for your business?</p>
+<p>It is not for everything. It might not be suitable for some use cases, but not for all.</p>
+<h2 id="what-are-monolithic-applications">What are monolithic applications?</h2>
+<p>A monolithic application is an application that is a single repository, a single data store, and a single application that is used by the user. It is typically used in the on-premises market.</p>
+<p>This is often what we call a “classic” application.</p>
+<p>It&rsquo;s important to note that even though the application has many components, it is still just one application. The architecture for the application is simple.</p>
+<h2 id="how-to-build-a-monolithic-application">How to build a monolithic application</h2>
+<p>The main advantage of monolithic applications is that it is easy to manage. Each component of the application can be developed, deployed and updated separately.</p>
+<p>For example, you can develop a new service, deploy it, and update it separately. No need to worry if another service has been developed and deployed.</p>
+<p>This is often what we call a “classic” application.</p>
+<p>A disadvantage of monolithic applications is that it can be hard to scale across different languages.</p>
+<p>When monolithic applications are scaled they are typically split into instances of the application.</p>
+<p>If this application has a lot of different languages, it can be hard to scale it. You&rsquo;ll need to build a separate instance of the application for each language. This can result in a very expensive scaling cost.</p>
+<p>It is also difficult to develop and deploy new features to the monolithic application. You&rsquo;ll have to rework a lot of code, especially if the application is large.</p>
+<p>For these reasons, a monolithic application is often not suited for applications with many languages.</p>
+<h2 id="how-to-improve-a-monolithic-application">How to improve a monolithic application</h2>
+<p>The main challenge of monolithic applications is that they are not flexible. If a business need changes, you&rsquo;ll need to rewrite a lot of code, and make a lot of changes to the application.</p>
+<p>This will mean that if your application becomes obsolete you will have to redevelop a lot of code. It is also hard to scale applications this way. If a feature needs to be implemented it might require splitting the application and scaling several instances. This can be time-consuming and expensive.</p>
+<p>On the other hand, splitting the monolithic application might be the best option in some circumstances.</p>
+<h2 id="is-a-microservices-architecture-suitable-for-my-application">Is a microservices architecture suitable for my application?</h2>
+<p>Before you decide to use a microservices architecture for your application, you should ask yourself:</p>
+<p><strong>Does my application work well as a monolithic application? Is it worth the cost?</strong></p>
+<p>A monolithic application can work well if the application is small. It is designed to work well for a particular use case. If the application is large, with many use cases, it is difficult to add new features or make new configurations. Splitting the application will require more effort to implement new features. This can result in more effort, time, and money. If your application requires more languages, it will be difficult to scale it. It will be expensive to develop and deploy instances of the application for each language. If your application has multiple databases, you can use a monolithic architecture and separate them. If the architecture is complex you&rsquo;ll have to develop a solution that will work for multiple databases, and manage the connection to the databases. This might be too expensive to be useful. If your application requires fast response times, microservices architecture might not be the best option. You will have to develop individual microservices for your business. This can require a lot of time and money.</p>
+<p><strong>Does my application have complex data?</strong></p>
+<p>For applications with complex data and a long operational life, a microservices architecture might not be a good fit. In these situations it will be expensive to develop new services. You&rsquo;ll need to write a lot of code to adapt to changes. You&rsquo;ll also need to develop a solution that will work with all the services. This might mean that you can&rsquo;t build a microservices architecture for these applications. If your application requires more services, you will need to build interfaces and manage them. You&rsquo;ll also have to test the interfaces. You&rsquo;ll need to test and deploy the individual services. If the services are developed in multiple languages you will need to build interfaces that can communicate with the other services. This can be complicated and expensive.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>It&rsquo;s not always the best option to split an application into different components. Some applications are built better as monolithic applications. It&rsquo;s important to understand your own application. It&rsquo;s likely to be designed well as a monolithic application. If it is not, you can split it. If you choose to split your application, you should avoid building services that have complex data and long operational life. These types of applications are difficult to build and will require a lot of maintenance.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/technology/" rel="tag">Technology</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/software-engineering/" rel="tag">Software Engineering</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/ai-writer/" rel="tag">AI Writer</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/microservices/" rel="tag">Microservices</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/monolith/" rel="tag">Monolith</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/software-architecture/" rel="tag">Software Architecture</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="0xRommel avatar" src="/img/redhummingbird.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About 0xRommel</span>
+	</div>
+	<div class="authorbox__description">
+		Rommel is a just another software engineer who wants to write about technology, systems and software.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/posts/what-are-microservices/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">What are Microservices in Software Engineering?</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/posts/is-python-the-easiest-language-to-learn/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Is Python the Easiest Programming Language to Learn?</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="/">
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/posts/who-not-how/">Who Not How - Book Review</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/what-is-service-oriented-architecture/">What is Services Oriented Architecture (SOA)?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/is-python-the-easiest-language-to-learn/">Is Python the Easiest Programming Language to Learn?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/microservices-vs-monolith/">Microservices vs Monolith Application</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/what-are-microservices/">What are Microservices in Software Engineering?</a></li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/agile/" title="Agile">Agile</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ai-writer/" title="AI Writer">AI Writer</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/autoblogging/" title="Autoblogging">Autoblogging</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/benjamin-hardy/" title="Benjamin Hardy">Benjamin Hardy</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/bitcoin/" title="Bitcoin">Bitcoin</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blockchain/" title="Blockchain">Blockchain</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blockhain/" title="Blockhain">Blockhain</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blogging/" title="Blogging">Blogging</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/career/" title="Career">Career</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cryptocurrency/" title="Cryptocurrency">Cryptocurrency</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/dan-sullivan/" title="Dan Sullivan">Dan Sullivan</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/digital-ledger/" title="Digital Ledger">Digital Ledger</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/distributed-systems/" title="distributed systems">distributed systems</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/eai/" title="EAI">EAI</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/enterprise-service-bus/" title="Enterprise Service Bus">Enterprise Service Bus</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/esb/" title="ESB">ESB</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ethereum/" title="Ethereum">Ethereum</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ethereum-wallet/" title="Ethereum Wallet">Ethereum Wallet</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/event-driven-architecture/" title="event-driven architecture">event-driven architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/evm/" title="EVM">EVM</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/javascript/" title="Javascript">Javascript</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/leadership/" title="Leadership">Leadership</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/management/" title="Management">Management</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/microservices/" title="Microservices">Microservices</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/monolith/" title="Monolith">Monolith</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/oop/" title="OOP">OOP</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/postman/" title="Postman">Postman</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/programming-language/" title="Programming Language">Programming Language</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/programming-languages/" title="Programming Languages">Programming Languages</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/python/" title="Python">Python</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/quality/" title="Quality">Quality</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/restful-api/" title="Restful API">Restful API</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/reusability/" title="reusability">reusability</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/service-oriented-architecture/" title="service oriented architecture">service oriented architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/smart-contract/" title="Smart Contract">Smart Contract</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/soa/" title="SOA">SOA</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-architecture/" title="Software Architecture">Software Architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-design/" title="software design">software design</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-engineering/" title="Software Engineering">Software Engineering</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/teamwork/" title="Teamwork">Teamwork</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/technology/" title="Technology">Technology</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/vitalik-buterin/" title="Vitalik Buterin">Vitalik Buterin</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/who-not-how/" title="Who Not How">Who Not How</a>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+  <div class="container footer__container flex">
+    
+    <div class="footer__copyright">
+      &copy; 2022 0xrommel.dev.
+      <span class="footer__copyright-credits"></span>
+        Yep, just another blog on technology, software and tools.</span
+      >
+    </div>
+  </div>
+  
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1ebf898dd4eb466fa7670c3eee549300"}'></script>
+  
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
+</body>
+</html>

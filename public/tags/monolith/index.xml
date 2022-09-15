@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monolith on 0xrommel.dev</title>
+    <link>/tags/monolith/</link>
+    <description>Recent content in Monolith on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/monolith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microservices vs Monolith Application</title>
+      <link>/posts/microservices-vs-monolith/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/microservices-vs-monolith/</guid>
+      <description>What are microservices? How do they relate to other architectures? Is the monolith vs. microservices question resolved? What are the downsides of using microservices architecture? Let&amp;rsquo;s get to it!
+What are Microservices? Microservices, as defined by James Marten, are small units of software, built around a single business capability. These are typically encapsulated and self-contained. Each unit, even if it is very small, is completely reusable. A set of microservices is called a domain.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event-driven architecture on 0xrommel.dev</title>
+    <link>/tags/event-driven-architecture/</link>
+    <description>Recent content in event-driven architecture on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Services Oriented Architecture (SOA)?</title>
+      <link>/posts/what-is-service-oriented-architecture/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-service-oriented-architecture/</guid>
+      <description>Service Oriented Architecture, or SOA, is a type of software design that focuses on creating reusable services. This approach to software design is intended to make life easier for developers, by providing them with building blocks that can be reused in different ways to create new applications.
+In theory, SOA sounds like a great idea. However, in practice, it can be quite difficult to achieve. This is because different services need to be able to work together seamlessly in order for the overall system to function correctly.</description>
+    </item>
+    
+  </channel>
+</rss>

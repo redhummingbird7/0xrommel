@@ -6,16 +6,107 @@
     <description>Recent content in Software Engineering on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Services Oriented Architecture (SOA)?</title>
+      <link>/posts/what-is-service-oriented-architecture/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-service-oriented-architecture/</guid>
+      <description>Service Oriented Architecture, or SOA, is a type of software design that focuses on creating reusable services. This approach to software design is intended to make life easier for developers, by providing them with building blocks that can be reused in different ways to create new applications.
+In theory, SOA sounds like a great idea. However, in practice, it can be quite difficult to achieve. This is because different services need to be able to work together seamlessly in order for the overall system to function correctly.</description>
+    </item>
+    
+    <item>
+      <title>Is Python the Easiest Programming Language to Learn?</title>
+      <link>/posts/is-python-the-easiest-language-to-learn/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/is-python-the-easiest-language-to-learn/</guid>
+      <description>This is a question that has been asked by literally thousands of programmers (and non-programmers) who are interested in programming. If you have an opinion, let us know.
+The basic answer is: Of course it is!
+The truth is, anyone can learn to program, you just need the right resources, and the right attitude.
+The easiest programming language to learn is the language that you have a natural affinity for. Most programmers who are good at programming, learned a language or two by themselves.</description>
+    </item>
+    
+    <item>
+      <title>Microservices vs Monolith Application</title>
+      <link>/posts/microservices-vs-monolith/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/microservices-vs-monolith/</guid>
+      <description>What are microservices? How do they relate to other architectures? Is the monolith vs. microservices question resolved? What are the downsides of using microservices architecture? Let&amp;rsquo;s get to it!
+What are Microservices? Microservices, as defined by James Marten, are small units of software, built around a single business capability. These are typically encapsulated and self-contained. Each unit, even if it is very small, is completely reusable. A set of microservices is called a domain.</description>
+    </item>
+    
+    <item>
+      <title>What are Microservices in Software Engineering?</title>
+      <link>/posts/what-are-microservices/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-are-microservices/</guid>
+      <description>Microservices architecture. Microservice architecture sounds a lot more complicated than it is. In simple terms, the architecture comprises small independent services that work closely together but ultimately fulfill a specific purpose. These services solve various software development problems through unique processes.
+Microservices, or microservices architecture, is an approach to application development in which a large application is built from modular components or services. Each module supports a specific task or business goal and uses a simple, well-defined interface, such as an application programming interface (API), to communicate with other sets of services.</description>
+    </item>
+    
+    <item>
+      <title>What is Agile Methodology?</title>
+      <link>/posts/what-is-agile-methodology/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-agile-methodology/</guid>
+      <description>What is agile methodology? The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
+Agile is a powerful mindset that simplified not only the world of software development, but is working for many times outside the IT sector.</description>
+    </item>
+    
+    <item>
+      <title>Seven Best Programming Languages To Learn</title>
+      <link>/posts/best-programming-languages-to-learn/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/best-programming-languages-to-learn/</guid>
+      <description>1. Java Java is a general-purpose, object-oriented computer programming language developed by Sun Microsystems. Java was designed to make software portable across different platforms and devices. Java is often associated with the Internet and web applications due to its use in many web browsers and server programs.
+2. C++ C++ (pronounced /ˈkɒpstʃ/), short for C with Classes, is a general purpose, imperative, class-based procedural programming language. It supports object orientation, modularity, exception handling, data abstraction, and dynamic memory allocation.</description>
+    </item>
+    
+    <item>
+      <title>What is Object Oriented Programming?</title>
+      <link>/posts/what-is-object-oriented-programming/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-object-oriented-programming/</guid>
+      <description>OOP (Object Oriented Programming) Object Oriented Programming (OOP) is a programming paradigm that emphasizes the use of objects, or modules, to create self-sufficient software applications. OOP is seen as a way of reducing the redundancy and coupling in code, and it has become the most popular programming approach in recent years.
+The basic concepts of object-oriented programming are that objects are self-sufficient modules of code. These modules can be reused throughout the application, which reduces redundancy and the amount of code that needs to be written.</description>
+    </item>
+    
     <item>
       <title>What is DevOps and Why it Matters for IT</title>
       <link>/posts/what-is-devops/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/what-is-devops/</guid>
-      <description>![What is DevOps](/img/what is devops.png &amp;ldquo;what is devops&amp;rdquo;)
-What is Devops? DevOps is a set of principles and practices that emphasize communication, collaboration, integration, and automation between software developers and information technology (IT) professionals.
-The idea behind devops is to provide a more efficient way of managing the application lifecycle through automation. This saves time for both team members as well as customers by ensuring that there are fewer errors in production.</description>
+      <description>What is Devops? DevOps is a set of principles and practices that emphasize communication, collaboration, integration, and automation between software developers and information technology (IT) professionals.
+The idea behind devops is to provide a more efficient way of managing the application lifecycle through automation. This saves time for both team members as well as customers by ensuring that there are fewer errors in production. Devops includes many different practices such as Continuous Integration, Continuous Delivery, Infrastructure as Code, Version Control Systems like Git or SVN, Automated Testing Tools like Selenium or Appium etc.</description>
+    </item>
+    
+    <item>
+      <title>What are Restful APIs?</title>
+      <link>/posts/what-are-restful-apis/</link>
+      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-are-restful-apis/</guid>
+      <description>If you&amp;rsquo;re a developer, then you&amp;rsquo;ve probably heard of RESTful APIs. But what are they, and why are they so popular?
+In this blog post, we&amp;rsquo;ll take a look at what RESTful APIs are, and why they&amp;rsquo;re such a popular choice for developers. We&amp;rsquo;ll also explore some of the most common use cases for RESTful APIs.
+Introduction to Restful APIs An API is an application programming interface. It is a set of rules that allow programs to talk to each other.</description>
+    </item>
+    
+    <item>
+      <title>What is Enterprise Service Bus (ESB)?</title>
+      <link>/posts/what-is-an-enterprise-service-bus/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/what-is-an-enterprise-service-bus/</guid>
+      <description>An Enterprise Service Bus (ESB) is a software system that provides connectivity between applications, services, and systems. An ESB is a core component of an SOA. An ESB provides an enterprise-wide, standardized, and scalable way for applications and components to communicate with each other. An ESB also provides a common set of protocols and standards that applications can use to communicate. An ESB can integrate disparate systems and technologies, such as legacy systems, mainframes, and web services.</description>
     </item>
     
   </channel>
