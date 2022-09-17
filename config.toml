@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://0xrommel.dev/"
 title = "0xrommel.dev"
 languageCode = "en-us"
 paginate = "6" # Number of posts per page
