@@ -9,7 +9,7 @@ googleAnalytics = "G-0JGT25C4EM" # Enable Google Analytics by entering your trac
 [Author] # Used in authorbox
   name = "0xRommel"
   bio = "Rommel is a just another software engineer who wants to write about technology, systems and software."
-  avatar = "img/redhummingbird.png"
+  avatar = "img/0xrommel_head.jpg"
 
 [Params]
   description = "Rommel's blog on technology, products, software and tools." # Site description. Used in meta description
