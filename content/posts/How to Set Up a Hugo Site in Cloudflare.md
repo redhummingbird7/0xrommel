@@ -195,7 +195,7 @@ Use Hugo as Framework preset and it will automatically fill the other fields.
 
 **15. Your site is now hosted in Cloudflare!!**
 
-Cloudflare gives you a default web address as yoursitename.pages.dev. Type it in a browser and you should see something like below.
+Cloudflare gives you a default web address as your-site-name-here.pages.dev. Type it in a browser and you should see something like below.
 
 ![](/img/Pasted_image_20220918121747.png)
 
