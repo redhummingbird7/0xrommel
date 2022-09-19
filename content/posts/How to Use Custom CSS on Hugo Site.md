@@ -57,10 +57,16 @@ In the screenshot below, you can see that I wanted to put a border and box shado
 
 **3. Success!! Images in the post are now enclosed by a border and given a shadow as I wanted.**
 
-See sample below (yellow highlighted).
+Styling changes applied. See sample below (yellow highlighted).
 
 ![](/img/Pasted_image_20220918232556.png)
 
-**3. Commit your code changes to your local repository and synch up to Github.**
+**4. Commit your code changes to your local repository and synch up to Github.**
+
+Add a comment and click on Commit then Sync it to Github (remote repository)
+
+![](/img/Pasted_image_20220918234508.png)
 
 ## That's pretty much it!
+
+Let me know if you have questions.
