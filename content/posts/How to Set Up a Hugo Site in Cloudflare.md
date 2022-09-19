@@ -252,3 +252,11 @@ Confirm the DNS record and activate it.
 ![](/img/Pasted_image_20220918144742.png)
 
 **23. That's It! The end! Hope this helped a little. Let me know if you have questions.**
+
+## References
+
+1. [Official Hugo Site](https://gohugo.io/)
+
+2. [Hugo Clarity Theme Documentation](https://themes.gohugo.io/themes/hugo-clarity/)
+
+3. [Cloudflare Deploy Hugo Page](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/)
