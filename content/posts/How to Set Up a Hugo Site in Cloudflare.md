@@ -66,7 +66,7 @@ I used VS Code below and it is already integrated with Github when I create a ne
 
 **1. Open up a command line terminal and navigate to the folder where you want to place your new site.**
 
-I place my Hugo sites under a project folder (see screenshot below).
+I place all my Hugo sites under my project folder (see screenshot below).
 
 ![](/img/Pasted_image_20220918153003.png)
 
