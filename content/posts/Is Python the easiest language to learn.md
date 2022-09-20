@@ -10,7 +10,7 @@ tags:
   - "Software Engineering"
   - "AI Writer"
   - "Python"
-  - "Programming Language"
+  - "Programming Languages"
   - "OOP"
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
