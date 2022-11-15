@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VS Code on 0xrommel.dev</title>
+    <link>https://0xrommel.dev/tags/vs-code/</link>
+    <description>Recent content in VS Code on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use Custom CSS on Hugo Site (With Pictures)</title>
+      <link>https://0xrommel.dev/posts/how-to-use-custom-css-on-hugo-site/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/posts/how-to-use-custom-css-on-hugo-site/</guid>
+      <description>After setting up your Hugo site for the first time, next thing to do is to customize it to your own liking. One of the more common things you have to do is to change some of the styling (CSS).
+Here&amp;rsquo;s how to do it.
+Note: I use Visual Studio code (VS Code). My IDE of choice. All steps below were executed from VSC. Should be doable as well from a different IDE.</description>
+    </item>
+    
+    <item>
+      <title>How to Set up a Hugo Site In Cloudflare (With Pictures)</title>
+      <link>https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/</guid>
+      <description>Prerequisites 1. You should have a Cloudflare account
+If you don&amp;rsquo;t have one, it&amp;rsquo;s easy to register and it&amp;rsquo;s free to start. It does a have paid premium service but all of the Cloudflare services that we&amp;rsquo;ll use below are all free. 2. You should have already installed Hugo on your machine
+Try to get the latest Hugo release. 3. You should already have a Github account
+Register for a new one if don&amp;rsquo;t have one yet.</description>
+    </item>
+    
+  </channel>
+</rss>

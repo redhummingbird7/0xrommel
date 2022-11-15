@@ -70,3 +70,9 @@ googleAnalytics = "G-0JGT25C4EM" # Enable Google Analytics by entering your trac
   # Enable parts of social widget
   twitter = "0xRommel"
   instagram = "0xRommel"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

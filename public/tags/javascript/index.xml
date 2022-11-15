@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on 0xrommel.dev</title>
-    <link>/tags/javascript/</link>
+    <link>https://0xrommel.dev/tags/javascript/</link>
     <description>Recent content in Javascript on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seven Best Programming Languages To Learn</title>
-      <link>/posts/best-programming-languages-to-learn/</link>
+      <link>https://0xrommel.dev/posts/best-programming-languages-to-learn/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/best-programming-languages-to-learn/</guid>
+      <guid>https://0xrommel.dev/posts/best-programming-languages-to-learn/</guid>
       <description>1. Java Java is a general-purpose, object-oriented computer programming language developed by Sun Microsystems. Java was designed to make software portable across different platforms and devices. Java is often associated with the Internet and web applications due to its use in many web browsers and server programs.
 2. C++ C++ (pronounced /ˈkɒpstʃ/), short for C with Classes, is a general purpose, imperative, class-based procedural programming language. It supports object orientation, modularity, exception handling, data abstraction, and dynamic memory allocation.</description>
     </item>

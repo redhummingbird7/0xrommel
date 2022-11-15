@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microservices on 0xrommel.dev</title>
-    <link>/tags/microservices/</link>
+    <link>https://0xrommel.dev/tags/microservices/</link>
     <description>Recent content in Microservices on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microservices vs Monolith Application</title>
-      <link>/posts/microservices-vs-monolith/</link>
+      <link>https://0xrommel.dev/posts/microservices-vs-monolith/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/microservices-vs-monolith/</guid>
+      <guid>https://0xrommel.dev/posts/microservices-vs-monolith/</guid>
       <description>What are microservices? How do they relate to other architectures? Is the monolith vs. microservices question resolved? What are the downsides of using microservices architecture? Let&amp;rsquo;s get to it!
 What are Microservices? Microservices, as defined by James Marten, are small units of software, built around a single business capability. These are typically encapsulated and self-contained. Each unit, even if it is very small, is completely reusable. A set of microservices is called a domain.</description>
     </item>
     
     <item>
       <title>What are Microservices in Software Engineering?</title>
-      <link>/posts/what-are-microservices/</link>
+      <link>https://0xrommel.dev/posts/what-are-microservices/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what-are-microservices/</guid>
+      <guid>https://0xrommel.dev/posts/what-are-microservices/</guid>
       <description>Microservices architecture. Microservice architecture sounds a lot more complicated than it is. In simple terms, the architecture comprises small independent services that work closely together but ultimately fulfill a specific purpose. These services solve various software development problems through unique processes.
 Microservices, or microservices architecture, is an approach to application development in which a large application is built from modular components or services. Each module supports a specific task or business goal and uses a simple, well-defined interface, such as an application programming interface (API), to communicate with other sets of services.</description>
     </item>

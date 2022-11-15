@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on 0xrommel.dev</title>
-    <link>/tags/python/</link>
+    <link>https://0xrommel.dev/tags/python/</link>
     <description>Recent content in Python on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Python the Easiest Programming Language to Learn?</title>
-      <link>/posts/is-python-the-easiest-language-to-learn/</link>
+      <link>https://0xrommel.dev/posts/is-python-the-easiest-language-to-learn/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/is-python-the-easiest-language-to-learn/</guid>
+      <guid>https://0xrommel.dev/posts/is-python-the-easiest-language-to-learn/</guid>
       <description>This is a question that has been asked by literally thousands of programmers (and non-programmers) who are interested in programming. If you have an opinion, let us know.
 The basic answer is: Of course it is!
 The truth is, anyone can learn to program, you just need the right resources, and the right attitude.
@@ -21,10 +21,10 @@ The easiest programming language to learn is the language that you have a natura
     
     <item>
       <title>Seven Best Programming Languages To Learn</title>
-      <link>/posts/best-programming-languages-to-learn/</link>
+      <link>https://0xrommel.dev/posts/best-programming-languages-to-learn/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/best-programming-languages-to-learn/</guid>
+      <guid>https://0xrommel.dev/posts/best-programming-languages-to-learn/</guid>
       <description>1. Java Java is a general-purpose, object-oriented computer programming language developed by Sun Microsystems. Java was designed to make software portable across different platforms and devices. Java is often associated with the Internet and web applications due to its use in many web browsers and server programs.
 2. C++ C++ (pronounced /ˈkɒpstʃ/), short for C with Classes, is a general purpose, imperative, class-based procedural programming language. It supports object orientation, modularity, exception handling, data abstraction, and dynamic memory allocation.</description>
     </item>

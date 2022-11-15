@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>How to Set up a Hugo Site In Cloudflare (With Pictures) - 0xrommel.dev</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="How to Set up a Hugo Site In Cloudflare (With Pictures)">
+		<meta property="og:title" content="How to Set up a Hugo Site In Cloudflare (With Pictures)" />
+<meta property="og:description" content="How to Set up a Hugo Site In Cloudflare (With Pictures)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-09-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-09-18T00:00:00+00:00" />
+
+
+		<meta itemprop="name" content="How to Set up a Hugo Site In Cloudflare (With Pictures)">
+<meta itemprop="description" content="How to Set up a Hugo Site In Cloudflare (With Pictures)"><meta itemprop="datePublished" content="2022-09-18T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2022-09-18T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1107">
+<meta itemprop="keywords" content="Technology,Tutorial,How-To,Cloudflare,Hugo,Github,VS Code,Cloudflare Pages,JamStack,Visual Studio Code," />
+		<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to Set up a Hugo Site In Cloudflare (With Pictures)"/>
+<meta name="twitter:description" content="How to Set up a Hugo Site In Cloudflare (With Pictures)"/>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0JGT25C4EM"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-0JGT25C4EM', { 'anonymize_ip': false });
+}
+</script>
+
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+  <div class="container header__container">
+    
+	<div class="logo">
+		<a class="logo__link" href="/" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/0xrommel.png">
+				</div>
+		</a>
+	</div> <div class="divider"></div>
+  </div>
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0JGT25C4EM"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-0JGT25C4EM', { 'anonymize_ip': false });
+}
+</script>
+
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">How to Set up a Hugo Site In Cloudflare (With Pictures)</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">Rommel</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2022-09-18T00:00:00Z">2022-09-18</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/tutorials/" rel="category">Tutorials</a>
+	</span>
+</div></div>
+		</header>
+		
+<div class="post__toc toc">
+	<div class="toc__title">Page content</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#step-by-step">Step by Step</a>
+      <ul>
+        <li><a href="#create-a-new-hugo-project">Create a new Hugo project</a></li>
+        <li><a href="#create-a-new-repository-for-your-siteproject">Create a new repository for your site/project</a></li>
+        <li><a href="#create-some-content-and-set-up-your-hugo-theme">Create some content and set up your Hugo theme</a></li>
+        <li><a href="#check-if-your-site-is-up-and-working">Check if your site is up and working</a></li>
+        <li><a href="#create-a-new-cloudflare-project-and-connect-your-github-repo">Create a new Cloudflare Project and Connect your Github Repo</a></li>
+        <li><a href="#configure-cloudflare-pages-so-it-can-build-your-hugo-site">Configure Cloudflare Pages so it can build your Hugo Site</a></li>
+        <li><a href="#use-your-own-domain-for-your-cloudflare-pages">Use your own domain for your Cloudflare Pages</a></li>
+      </ul>
+    </li>
+    <li><a href="#success">Success!</a></li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<h2 id="prerequisites">Prerequisites</h2>
+<p><strong>1. You should have a Cloudflare account</strong></p>
+<ul>
+<li>If you don&rsquo;t have one, it&rsquo;s <a href="https://dash.cloudflare.com/sign-up">easy to register</a> and it&rsquo;s free to start. It does a have paid premium service but all of the Cloudflare services that we&rsquo;ll use below are all free.</li>
+</ul>
+<p><strong>2. You should have already installed Hugo on your machine</strong></p>
+<ul>
+<li>Try to get the latest <a href="https://gohugo.io/getting-started/installing/">Hugo release</a>.</li>
+</ul>
+<p><strong>3. You should already have a Github account</strong></p>
+<ul>
+<li>Register for a new one if don&rsquo;t have one yet. I don&rsquo;t have a guide for this yet but it should be easy.</li>
+</ul>
+<p><strong>4. You should have VS Code (not mandatory). Any IDE should do.</strong></p>
+<p>I used VS Code below and it is already integrated with Github when I create a new repository so it makes a lot of things easier and seamless.</p>
+<p><strong>Notes:</strong> The below guide is done on a Windows machine. If you&rsquo;re a using a different OS/platform (Linux, Mac etc.), it should be easy to follow along and make the necessary equivalent commands.</p>
+<hr>
+<h2 id="step-by-step">Step by Step</h2>
+<h3 id="create-a-new-hugo-project">Create a new Hugo project</h3>
+<p><strong>1. Open up a command line terminal and navigate to the folder where you want to place your new site.</strong></p>
+<p>I place all my Hugo sites under my project folder (see screenshot below).</p>
+<p><img src="/img/Pasted_image_20220918153003.png" alt=""></p>
+<p><strong>2. Create a new Hugo project. Type the command below:</strong></p>
+<pre><code>    hugo new site your-site-name-here
+</code></pre>
+<p>Make sure to replace the above <strong>&ldquo;your-site-name-here&rdquo;</strong> text with a name for your new site. The above command will create a new Hugo project folder with basic Hugo site folder structure.</p>
+<p><img src="/img/Pasted_image_20220917174235.png" alt=""></p>
+<p><strong>3. Navigate to the folder of the newly created Hugo project.</strong></p>
+<p><img src="/img/Pasted_image_20220917185549.png" alt=""></p>
+<h3 id="create-a-new-repository-for-your-siteproject">Create a new repository for your site/project</h3>
+<p><strong>4. Create a new repository for your site. Run the git <em>init</em> command.</strong></p>
+<pre><code>git init
+</code></pre>
+<p><strong>5. Download and use a Hugo theme for your site.</strong></p>
+<p>For this tutorial, I am using the <strong>Clarity</strong> theme. Feel free to use other themes. Some of them are in <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>. Check them out. I&rsquo;d suggest pick some simple themes (or the one below) just to lessen possible complexity. Themes can be changed in the future as needed.</p>
+<pre><code>git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity
+
+git submodule update --init --recursive
+</code></pre>
+<p><img src="/img/Pasted_image_20220917190927.png" alt=""></p>
+<p><strong>6. Commit project changes into your repository</strong></p>
+<p>Open your favorite IDE. I use Visual Studio code to do this.</p>
+<p><img src="/img/Pasted_image_20220917191617.png" alt=""></p>
+<p>Automatically, it is asking me if I want to create a new remote repository in GitHub. Yes, I like that so I authorize Github access to VS Code so it can do its thing.</p>
+<p><img src="/img/Pasted_image_20220917191832.png" alt=""></p>
+<h3 id="create-some-content-and-set-up-your-hugo-theme">Create some content and set up your Hugo theme</h3>
+<p><strong>7. Follow directions from your theme on how to configure</strong></p>
+<p>For most simple themes (ex: mainroad), you just need to copy the default configuration file (config.toml) from the theme directory and replace the config.toml file in the project directory. The Clarity theme is a little different. You need to copy the whole config folder from the theme directory to the project directory.</p>
+<p><strong>Copy from:</strong></p>
+<p><img src="/img/Pasted_image_20220917193809.png" alt=""></p>
+<p><strong>Paste To:</strong></p>
+<p><img src="/img/Pasted_image_20220917193849.png" alt=""></p>
+<h3 id="check-if-your-site-is-up-and-working">Check if your site is up and working</h3>
+<p><strong>8. Check and see and how your site looks like.</strong></p>
+<p>In VS Code, go to Terminal tab and run:</p>
+<pre><code>hugo server
+</code></pre>
+<p>The above command will launch a local Hugo server allowing you to see how your site looks like as you edit. Pretty cool!</p>
+<p><strong>9. Open a browser and type URL : localhost:1313</strong></p>
+<p>The page will probably look like below. It&rsquo;s good progress but as you can see there is no styling applied. It&rsquo;s because the CSS is being blocked because of SRI (Subresource Integrity) issue. See troubleshooting below for the fix (temporary).</p>
+<p><img src="/img/Pasted_image_20220917193931.png" alt=""></p>
+<p><strong>What should show up</strong></p>
+<p>If you are seeing the below page, then you&rsquo;ve probably followed the theme (Clarity) guide. You&rsquo;re good to go to the next step.</p>
+<p><img src="/img/Pasted_image_20220918115639.png" alt=""></p>
+<p>Troubleshooting for the CSS issue previously:</p>
+<ul>
+<li>
+<p>As advised by the theme creator, copy the <strong>examplesite</strong> folder from the theme. It would give your empty site some content similar to what&rsquo;s in the demo site.</p>
+</li>
+<li>
+<p>Update head.html file to remove CSS Integrity attributes.</p>
+<ul>
+<li>Copy head.html from the theme&rsquo;s layouts\partials folder and paste it to layouts\partials on the project folder</li>
+</ul>
+<p><img src="/img/Pasted_image_20220918163410.png" alt=""></p>
+</li>
+<li>
+<p>Remove Integrity and Crossorigin attributes/value</p>
+</li>
+</ul>
+<p><img src="/img/Pasted_image_20220918164031.png" alt=""></p>
+<h3 id="create-a-new-cloudflare-project-and-connect-your-github-repo">Create a new Cloudflare Project and Connect your Github Repo</h3>
+<p><strong>10. Log into your Cloudflare Account and go to the &ldquo;Pages&rdquo; dashboard to create a new project.</strong></p>
+<p>Click on the blue &ldquo;Create a project&rdquo; button.</p>
+<p><img src="/img/Pasted_image_20220918120028.png" alt=""></p>
+<p><strong>11. Connect your Cloudflare project to your Github repository</strong>.</p>
+<p>Click on the &ldquo;Connect to Git&rdquo; option on the dropdown.</p>
+<p><img src="/img/Pasted_image_20220918120203.png" alt=""></p>
+<p><strong>12. Select your repository to connect to.</strong></p>
+<p>I use Github. Select the Github account and the specific project repository. click on blue &ldquo;Begin Setup&rdquo; button.</p>
+<p><img src="/img/Pasted_image_20220918120441.png" alt=""></p>
+<h3 id="configure-cloudflare-pages-so-it-can-build-your-hugo-site">Configure Cloudflare Pages so it can build your Hugo Site</h3>
+<p><strong>13. Configure your Hugo Build and Deployment settings</strong></p>
+<p>Use Hugo as Framework preset and it will automatically fill the other fields.</p>
+<p><img src="/img/Pasted_image_20220918120703.png" alt=""></p>
+<p><strong>14. Successful Hugo Cloudflare Build!!!!</strong></p>
+<p><img src="/img/Pasted_image_20220918121457.png" alt=""></p>
+<p><strong>Note:</strong> Before I got a successful build, I had to lower the version of Hugo as the theme I used is giving me an error. If this happens to you, lower the Hugo version by going back one step and update &ldquo;Build Setting&rdquo;. Create an environment variable named: HUGO_VERSION. Value that worked for me is 0.101.0</p>
+<p><img src="/img/Pasted_image_20220918165535.png" alt=""></p>
+<p><strong>15. Your site is now hosted in Cloudflare!!</strong></p>
+<p>Cloudflare gives you a default web address as your-site-name-here.pages.dev. Type it in a browser and you should see something like below.</p>
+<p><img src="/img/Pasted_image_20220918121747.png" alt=""></p>
+<p><strong>Note:</strong> You can stop here if you&rsquo;re fine using Cloudflare Pages&rsquo; default URL. If you want to use your own domain and point it to your Cloudflare Pages site, follow along below:</p>
+<h3 id="use-your-own-domain-for-your-cloudflare-pages">Use your own domain for your Cloudflare Pages</h3>
+<p><strong>16. In your Cloudflare account, navigate to the Pages dashboard.</strong></p>
+<p>You should see your new site listed here. Click on your site in the list.</p>
+<p><img src="/img/Pasted_image_20220918131525.png" alt=""></p>
+<p><strong>17. Click on the &ldquo;Custom domains&rdquo; tab to set up your custom domain.</strong></p>
+<p>Click on the blue &ldquo;Set up a custom domain&rdquo; button.</p>
+<p><img src="/img/Pasted_image_20220918131900.png" alt=""></p>
+<p><strong>18. Type your domain name in the Domain box and click on Continue button.</strong></p>
+<p><img src="/img/Pasted_image_20220918132012.png" alt=""></p>
+<p><strong>19. Confirm DSN changes and click on the &ldquo;Activate domain&rdquo; button.</strong></p>
+<p><img src="/img/Pasted_image_20220918132133.png" alt=""></p>
+<p><strong>20. Success!!! Your custom domain is now active!</strong></p>
+<p><img src="/img/Pasted_image_20220918132319.png" alt=""></p>
+<p><strong>21. Open a browser and type your URL.</strong></p>
+<p>You should see your Cloudflare Pages site.</p>
+<p><img src="/img/Pasted_image_20220918132542.png" alt=""></p>
+<p><strong>22. Do the same for the www. domain prefix.</strong></p>
+<p>Add www URL as custom domain.</p>
+<p><img src="/img/Pasted_image_20220918144044.png" alt=""></p>
+<p>Confirm the DNS record and activate it.</p>
+<p><img src="/img/Pasted_image_20220918144143.png" alt=""></p>
+<p><strong>Note:</strong> Sometimes it takes time and will ask you to do the DNS name changes yourself like in below. But, I just waited a little bit more and it was able to activate without me changing DNS record myself. (maybe because Cloudflare is also my Name Registrar for the domain)</p>
+<p><img src="/img/Pasted_image_20220918144539.png" alt=""></p>
+<h2 id="success">Success!</h2>
+<p><img src="/img/Pasted_image_20220918144742.png" alt=""></p>
+<p><strong>23. That&rsquo;s It! The end! Hope this helped a little. Let me know if you have questions.</strong></p>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p><a href="https://gohugo.io/">Official Hugo Site</a></p>
+</li>
+<li>
+<p><a href="https://themes.gohugo.io/themes/hugo-clarity/">Hugo Clarity Theme Documentation</a></p>
+</li>
+<li>
+<p><a href="https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/">Cloudflare Deploy Hugo Page</a></p>
+</li>
+</ol>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/technology/" rel="tag">Technology</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/tutorial/" rel="tag">Tutorial</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/how-to/" rel="tag">How-To</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/cloudflare/" rel="tag">Cloudflare</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/hugo/" rel="tag">Hugo</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/github/" rel="tag">Github</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/vs-code/" rel="tag">VS Code</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/cloudflare-pages/" rel="tag">Cloudflare Pages</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/jamstack/" rel="tag">JamStack</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/visual-studio-code/" rel="tag">Visual Studio Code</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Rommel avatar" src="/img/0xrommel_head.jpg" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Rommel</span>
+	</div>
+	<div class="authorbox__description">
+		<strong>Rommel</strong> works in the software industry and based in <strong>Vancouver, BC</strong>. Got a BSc in Computer Engineering and likes troubleshooting issues (tech and business process). He drinks his coffee black (no sugar added). Currently, he&rsquo;s obsessed with Korean fried chicken.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/posts/who-not-how/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Who Not How - Book Review</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/posts/how-to-use-custom-css-on-hugo-site/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">How to Use Custom CSS on Hugo Site (With Pictures)</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://0xrommel.dev/">
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/posts/what-is-the-solidity-programming-language/">What is the Solidity Programming Language?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/how-to-use-custom-css-on-hugo-site/">How to Use Custom CSS on Hugo Site (With Pictures)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/how-to-set-up-a-hugo-site-in-cloudflare/">How to Set up a Hugo Site In Cloudflare (With Pictures)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/who-not-how/">Who Not How - Book Review</a></li>
+			<li class="widget__item"><a class="widget__link" href="/posts/what-is-service-oriented-architecture/">What is Services Oriented Architecture (SOA)?</a></li>
+		</ul>
+	</div>
+</div>
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/agile/" title="Agile">Agile</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ai-writer/" title="AI Writer">AI Writer</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/autoblogging/" title="Autoblogging">Autoblogging</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/beacon-chain/" title="Beacon Chain">Beacon Chain</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/benjamin-hardy/" title="Benjamin Hardy">Benjamin Hardy</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/bitcoin/" title="Bitcoin">Bitcoin</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blockchain/" title="Blockchain">Blockchain</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blockhain/" title="Blockhain">Blockhain</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/blogging/" title="Blogging">Blogging</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/career/" title="Career">Career</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cloudflare/" title="Cloudflare">Cloudflare</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cloudflare-pages/" title="Cloudflare Pages">Cloudflare Pages</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/cryptocurrency/" title="Cryptocurrency">Cryptocurrency</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/dan-sullivan/" title="Dan Sullivan">Dan Sullivan</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/digital-ledger/" title="Digital Ledger">Digital Ledger</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/distributed-systems/" title="distributed systems">distributed systems</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/eai/" title="EAI">EAI</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ehereum-virtual-machine/" title="Ehereum Virtual Machine">Ehereum Virtual Machine</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/enterprise-service-bus/" title="Enterprise Service Bus">Enterprise Service Bus</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/esb/" title="ESB">ESB</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ethereum/" title="Ethereum">Ethereum</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/ethereum-wallet/" title="Ethereum Wallet">Ethereum Wallet</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/event-driven-architecture/" title="event-driven architecture">event-driven architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/evm/" title="EVM">EVM</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/github/" title="Github">Github</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/how-to/" title="How-To">How-To</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/hugo/" title="Hugo">Hugo</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/jamstack/" title="JamStack">JamStack</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/javascript/" title="Javascript">Javascript</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/leadership/" title="Leadership">Leadership</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/management/" title="Management">Management</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/merge/" title="Merge">Merge</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/microservices/" title="Microservices">Microservices</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/monolith/" title="Monolith">Monolith</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/oop/" title="OOP">OOP</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/parablogging/" title="Parablogging">Parablogging</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/postman/" title="Postman">Postman</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/programming-languages/" title="Programming Languages">Programming Languages</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/python/" title="Python">Python</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/quality/" title="Quality">Quality</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/quill/" title="Quill">Quill</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/restful-api/" title="Restful API">Restful API</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/reusability/" title="reusability">reusability</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/service-oriented-architecture/" title="service oriented architecture">service oriented architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/smart-contract/" title="Smart Contract">Smart Contract</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/smart-contracts/" title="Smart Contracts">Smart Contracts</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/soa/" title="SOA">SOA</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-architecture/" title="Software Architecture">Software Architecture</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-design/" title="software design">software design</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/software-engineering/" title="Software Engineering">Software Engineering</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/solidity/" title="Solidity">Solidity</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/teamwork/" title="Teamwork">Teamwork</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/technology/" title="Technology">Technology</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/tutorial/" title="Tutorial">Tutorial</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/visual-studio-code/" title="Visual Studio Code">Visual Studio Code</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/vitalik-buterin/" title="Vitalik Buterin">Vitalik Buterin</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/vs-code/" title="VS Code">VS Code</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/who-not-how/" title="Who Not How">Who Not How</a>
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+  <div class="container footer__container flex">
+    
+    <div class="footer__copyright">
+      &copy; 2022 0xrommel.dev.
+      <span class="footer__copyright-credits"></span>
+        Yep, just another blog on technology, software and tools.</span
+      >
+    </div>
+  </div>
+  
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1ebf898dd4eb466fa7670c3eee549300"}'></script>
+  
+</footer>
+
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script></body>
+</html>

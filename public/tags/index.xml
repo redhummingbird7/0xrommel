@@ -2,395 +2,530 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 0xrommel.dev</title>
-    <link>/tags/</link>
+    <link>https://0xrommel.dev/tags/</link>
     <description>Recent content in Tags on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Benjamin Hardy</title>
-      <link>/tags/benjamin-hardy/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/benjamin-hardy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan Sullivan</title>
-      <link>/tags/dan-sullivan/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dan-sullivan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership</title>
-      <link>/tags/leadership/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Management</title>
-      <link>/tags/management/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teamwork</title>
-      <link>/tags/teamwork/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/teamwork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>/tags/technology/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Who Not How</title>
-      <link>/tags/who-not-how/</link>
-      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/who-not-how/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI Writer</title>
-      <link>/tags/ai-writer/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ai-writer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autoblogging</title>
-      <link>/tags/autoblogging/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/autoblogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distributed systems</title>
-      <link>/tags/distributed-systems/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/distributed-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EAI</title>
-      <link>/tags/eai/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/eai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>event-driven architecture</title>
-      <link>/tags/event-driven-architecture/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/event-driven-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reusability</title>
-      <link>/tags/reusability/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/reusability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service oriented architecture</title>
-      <link>/tags/service-oriented-architecture/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/service-oriented-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SOA</title>
-      <link>/tags/soa/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/soa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Architecture</title>
-      <link>/tags/software-architecture/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/software-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software design</title>
-      <link>/tags/software-design/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/software-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software Engineering</title>
-      <link>/tags/software-engineering/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/software-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OOP</title>
-      <link>/tags/oop/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/oop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Language</title>
-      <link>/tags/programming-language/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programming-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microservices</title>
-      <link>/tags/microservices/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/microservices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monolith</title>
-      <link>/tags/monolith/</link>
-      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/monolith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agile</title>
-      <link>/tags/agile/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/agile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality</title>
-      <link>/tags/quality/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>/tags/javascript/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming Languages</title>
-      <link>/tags/programming-languages/</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programming-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>/tags/career/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitcoin</title>
-      <link>/tags/bitcoin/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bitcoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blockchain</title>
-      <link>/tags/blockchain/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cryptocurrency</title>
-      <link>/tags/cryptocurrency/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cryptocurrency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Ledger</title>
-      <link>/tags/digital-ledger/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/digital-ledger/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockhain</title>
-      <link>/tags/blockhain/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <link>https://0xrommel.dev/tags/blockhain/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blockhain/</guid>
+      <guid>https://0xrommel.dev/tags/blockhain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ehereum Virtual Machine</title>
+      <link>https://0xrommel.dev/tags/ehereum-virtual-machine/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/ehereum-virtual-machine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethereum</title>
-      <link>/tags/ethereum/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <link>https://0xrommel.dev/tags/ethereum/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ethereum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethereum Wallet</title>
-      <link>/tags/ethereum-wallet/</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ethereum-wallet/</guid>
+      <guid>https://0xrommel.dev/tags/ethereum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EVM</title>
-      <link>/tags/evm/</link>
+      <link>https://0xrommel.dev/tags/evm/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/evm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Contracts</title>
+      <link>https://0xrommel.dev/tags/smart-contracts/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/smart-contracts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solidity</title>
+      <link>https://0xrommel.dev/tags/solidity/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/solidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://0xrommel.dev/tags/technology/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudflare Pages</title>
+      <link>https://0xrommel.dev/tags/cloudflare-pages/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/cloudflare-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://0xrommel.dev/tags/github/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How-To</title>
+      <link>https://0xrommel.dev/tags/how-to/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://0xrommel.dev/tags/hugo/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JamStack</title>
+      <link>https://0xrommel.dev/tags/jamstack/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/jamstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://0xrommel.dev/tags/tutorial/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code</title>
+      <link>https://0xrommel.dev/tags/visual-studio-code/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/visual-studio-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VS Code</title>
+      <link>https://0xrommel.dev/tags/vs-code/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/vs-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloudflare</title>
+      <link>https://0xrommel.dev/tags/cloudflare/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/cloudflare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Hardy</title>
+      <link>https://0xrommel.dev/tags/benjamin-hardy/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/benjamin-hardy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Sullivan</title>
+      <link>https://0xrommel.dev/tags/dan-sullivan/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/dan-sullivan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://0xrommel.dev/tags/leadership/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Management</title>
+      <link>https://0xrommel.dev/tags/management/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teamwork</title>
+      <link>https://0xrommel.dev/tags/teamwork/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Not How</title>
+      <link>https://0xrommel.dev/tags/who-not-how/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/who-not-how/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Writer</title>
+      <link>https://0xrommel.dev/tags/ai-writer/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/ai-writer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoblogging</title>
+      <link>https://0xrommel.dev/tags/autoblogging/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/autoblogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed systems</title>
+      <link>https://0xrommel.dev/tags/distributed-systems/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/distributed-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAI</title>
+      <link>https://0xrommel.dev/tags/eai/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/eai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event-driven architecture</title>
+      <link>https://0xrommel.dev/tags/event-driven-architecture/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/event-driven-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reusability</title>
+      <link>https://0xrommel.dev/tags/reusability/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/reusability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service oriented architecture</title>
+      <link>https://0xrommel.dev/tags/service-oriented-architecture/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/service-oriented-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOA</title>
+      <link>https://0xrommel.dev/tags/soa/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/soa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Architecture</title>
+      <link>https://0xrommel.dev/tags/software-architecture/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software design</title>
+      <link>https://0xrommel.dev/tags/software-design/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/software-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Engineering</title>
+      <link>https://0xrommel.dev/tags/software-engineering/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>https://0xrommel.dev/tags/oop/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/oop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://0xrommel.dev/tags/programming-languages/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://0xrommel.dev/tags/python/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beacon Chain</title>
+      <link>https://0xrommel.dev/tags/beacon-chain/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/beacon-chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merge</title>
+      <link>https://0xrommel.dev/tags/merge/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/merge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parablogging</title>
+      <link>https://0xrommel.dev/tags/parablogging/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/parablogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quill</title>
+      <link>https://0xrommel.dev/tags/quill/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/quill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://0xrommel.dev/tags/microservices/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monolith</title>
+      <link>https://0xrommel.dev/tags/monolith/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/monolith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile</title>
+      <link>https://0xrommel.dev/tags/agile/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://0xrommel.dev/tags/quality/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://0xrommel.dev/tags/javascript/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>https://0xrommel.dev/tags/career/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>https://0xrommel.dev/tags/bitcoin/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>https://0xrommel.dev/tags/blockchain/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>https://0xrommel.dev/tags/cryptocurrency/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Ledger</title>
+      <link>https://0xrommel.dev/tags/digital-ledger/</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/tags/digital-ledger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethereum Wallet</title>
+      <link>https://0xrommel.dev/tags/ethereum-wallet/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evm/</guid>
+      <guid>https://0xrommel.dev/tags/ethereum-wallet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Contract</title>
-      <link>/tags/smart-contract/</link>
+      <link>https://0xrommel.dev/tags/smart-contract/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/smart-contract/</guid>
+      <guid>https://0xrommel.dev/tags/smart-contract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vitalik Buterin</title>
-      <link>/tags/vitalik-buterin/</link>
+      <link>https://0xrommel.dev/tags/vitalik-buterin/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vitalik-buterin/</guid>
+      <guid>https://0xrommel.dev/tags/vitalik-buterin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Postman</title>
-      <link>/tags/postman/</link>
+      <link>https://0xrommel.dev/tags/postman/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/postman/</guid>
+      <guid>https://0xrommel.dev/tags/postman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Restful API</title>
-      <link>/tags/restful-api/</link>
+      <link>https://0xrommel.dev/tags/restful-api/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/restful-api/</guid>
+      <guid>https://0xrommel.dev/tags/restful-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enterprise Service Bus</title>
-      <link>/tags/enterprise-service-bus/</link>
+      <link>https://0xrommel.dev/tags/enterprise-service-bus/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/enterprise-service-bus/</guid>
+      <guid>https://0xrommel.dev/tags/enterprise-service-bus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ESB</title>
-      <link>/tags/esb/</link>
+      <link>https://0xrommel.dev/tags/esb/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/esb/</guid>
+      <guid>https://0xrommel.dev/tags/esb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>/tags/blogging/</link>
+      <link>https://0xrommel.dev/tags/blogging/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blogging/</guid>
+      <guid>https://0xrommel.dev/tags/blogging/</guid>
       <description></description>
     </item>
     

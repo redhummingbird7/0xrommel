@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beacon Chain on 0xrommel.dev</title>
+    <link>https://0xrommel.dev/tags/beacon-chain/</link>
+    <description>Recent content in Beacon Chain on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/beacon-chain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the Ethereum Merge?</title>
+      <link>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</guid>
+      <description>Introduction The &amp;ldquo;Merge&amp;rdquo; was the final phase in Ethereum&amp;rsquo;s strategy to transition from a proof-of-work (POW) consensus system to a proof-of-stake (POS) consensus mechanism. But what exactly does this signify? How will it influence ethereum?
+An Analogy Imagine you&amp;rsquo;re in San Francisco when the city is just getting started and attracting millions of individuals from all over the world. While it is exhilarating at initially, as more people arrive, there are challenges that arise.</description>
+    </item>
+    
+  </channel>
+</rss>

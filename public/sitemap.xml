@@ -2,205 +2,268 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://0xrommel.dev/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/categories/blockchain-technology/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/blockhain/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/categories/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/ehereum-virtual-machine/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/ethereum/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/evm/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/smart-contracts/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/solidity/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/technology/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</loc>
+    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/cloudflare-pages/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/github/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/how-to-use-custom-css-on-hugo-site/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/how-to/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/hugo/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/jamstack/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/tutorial/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/categories/tutorials/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/visual-studio-code/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/vs-code/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/cloudflare/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/</loc>
+    <lastmod>2022-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/benjamin-hardy/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/benjamin-hardy/</loc>
+    <loc>https://0xrommel.dev/categories/book-review/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/book-review/</loc>
+    <loc>https://0xrommel.dev/tags/dan-sullivan/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://0xrommel.dev/tags/leadership/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/dan-sullivan/</loc>
+    <loc>https://0xrommel.dev/tags/management/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/leadership/</loc>
+    <loc>https://0xrommel.dev/tags/teamwork/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/management/</loc>
+    <loc>https://0xrommel.dev/tags/who-not-how/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://0xrommel.dev/posts/who-not-how/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/teamwork/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/technology/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/who-not-how/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/who-not-how/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ai-writer/</loc>
+    <loc>https://0xrommel.dev/tags/ai-writer/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/autoblogging/</loc>
+    <loc>https://0xrommel.dev/tags/autoblogging/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/distributed-systems/</loc>
+    <loc>https://0xrommel.dev/tags/distributed-systems/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/eai/</loc>
+    <loc>https://0xrommel.dev/tags/eai/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/event-driven-architecture/</loc>
+    <loc>https://0xrommel.dev/tags/event-driven-architecture/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/reusability/</loc>
+    <loc>https://0xrommel.dev/tags/reusability/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/service-oriented-architecture/</loc>
+    <loc>https://0xrommel.dev/tags/service-oriented-architecture/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/soa/</loc>
+    <loc>https://0xrommel.dev/tags/soa/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/software-architecture/</loc>
+    <loc>https://0xrommel.dev/tags/software-architecture/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/software-design/</loc>
+    <loc>https://0xrommel.dev/tags/software-design/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/software-engineering/</loc>
+    <loc>https://0xrommel.dev/tags/software-engineering/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/software-engineering/</loc>
+    <loc>https://0xrommel.dev/categories/software-engineering/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-service-oriented-architecture/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/is-python-the-easiest-language-to-learn/</loc>
+    <loc>https://0xrommel.dev/posts/is-python-the-easiest-language-to-learn/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/oop/</loc>
+    <loc>https://0xrommel.dev/tags/oop/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/programming-language/</loc>
+    <loc>https://0xrommel.dev/tags/programming-languages/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>https://0xrommel.dev/tags/python/</loc>
     <lastmod>2022-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/microservices/</loc>
+    <loc>https://0xrommel.dev/tags/beacon-chain/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/merge/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/parablogging/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/quill/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</loc>
+    <lastmod>2022-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/microservices/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/microservices-vs-monolith/</loc>
+    <loc>https://0xrommel.dev/posts/microservices-vs-monolith/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/monolith/</loc>
+    <loc>https://0xrommel.dev/tags/monolith/</loc>
     <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-are-microservices/</loc>
+    <loc>https://0xrommel.dev/posts/what-are-microservices/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/agile/</loc>
+    <loc>https://0xrommel.dev/tags/agile/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/quality/</loc>
+    <loc>https://0xrommel.dev/tags/quality/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-agile-methodology/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-agile-methodology/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/javascript/</loc>
+    <loc>https://0xrommel.dev/tags/javascript/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/programming-languages/</loc>
+    <loc>https://0xrommel.dev/posts/best-programming-languages-to-learn/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/best-programming-languages-to-learn/</loc>
-    <lastmod>2022-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/what-is-object-oriented-programming/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-object-oriented-programming/</loc>
     <lastmod>2022-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/career/</loc>
+    <loc>https://0xrommel.dev/tags/career/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/5-ways-to-become-good-software-developer/</loc>
+    <loc>https://0xrommel.dev/posts/5-ways-to-become-good-software-developer/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/it-career/</loc>
+    <loc>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bitcoin/</loc>
+    <loc>https://0xrommel.dev/categories/it-career/</loc>
+    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/bitcoin/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blockchain/</loc>
+    <loc>https://0xrommel.dev/tags/blockchain/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/blockchain-technology/</loc>
+    <loc>https://0xrommel.dev/tags/cryptocurrency/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cryptocurrency/</loc>
+    <loc>https://0xrommel.dev/tags/digital-ledger/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/digital-ledger/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-blockchain-technology/</loc>
     <lastmod>2022-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-blockchain-technology/</loc>
-    <lastmod>2022-03-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/blockhain/</loc>
+    <loc>https://0xrommel.dev/tags/ethereum-wallet/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ethereum/</loc>
+    <loc>https://0xrommel.dev/tags/smart-contract/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ethereum-wallet/</loc>
+    <loc>https://0xrommel.dev/tags/vitalik-buterin/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/evm/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-ethereum/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/smart-contract/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/vitalik-buterin/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/what-is-ethereum/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/what-is-devops/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-devops/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/postman/</loc>
+    <loc>https://0xrommel.dev/tags/postman/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/restful-api/</loc>
+    <loc>https://0xrommel.dev/tags/restful-api/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-are-restful-apis/</loc>
+    <loc>https://0xrommel.dev/posts/what-are-restful-apis/</loc>
     <lastmod>2022-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/enterprise-service-bus/</loc>
+    <loc>https://0xrommel.dev/tags/enterprise-service-bus/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/esb/</loc>
+    <loc>https://0xrommel.dev/tags/esb/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-an-enterprise-service-bus/</loc>
+    <loc>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/blogging/</loc>
+    <loc>https://0xrommel.dev/tags/blogging/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://0xrommel.dev/posts/hello-world/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/technology/</loc>
+    <loc>https://0xrommel.dev/categories/technology/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

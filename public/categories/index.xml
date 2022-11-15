@@ -2,53 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0xrommel.dev</title>
-    <link>/categories/</link>
+    <link>https://0xrommel.dev/categories/</link>
     <description>Recent content in Categories on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Technology</title>
+      <link>https://0xrommel.dev/categories/blockchain-technology/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/categories/blockchain-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://0xrommel.dev/categories/tutorials/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0xrommel.dev/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Book Review</title>
-      <link>/categories/book-review/</link>
+      <link>https://0xrommel.dev/categories/book-review/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/book-review/</guid>
+      <guid>https://0xrommel.dev/categories/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Engineering</title>
-      <link>/categories/software-engineering/</link>
+      <link>https://0xrommel.dev/categories/software-engineering/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/software-engineering/</guid>
+      <guid>https://0xrommel.dev/categories/software-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IT Career</title>
-      <link>/categories/it-career/</link>
+      <link>https://0xrommel.dev/categories/it-career/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/it-career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blockchain Technology</title>
-      <link>/categories/blockchain-technology/</link>
-      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blockchain-technology/</guid>
+      <guid>https://0xrommel.dev/categories/it-career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>/categories/technology/</link>
+      <link>https://0xrommel.dev/categories/technology/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/technology/</guid>
+      <guid>https://0xrommel.dev/categories/technology/</guid>
       <description></description>
     </item>
     

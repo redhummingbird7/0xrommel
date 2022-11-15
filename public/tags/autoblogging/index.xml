@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Autoblogging on 0xrommel.dev</title>
-    <link>/tags/autoblogging/</link>
+    <link>https://0xrommel.dev/tags/autoblogging/</link>
     <description>Recent content in Autoblogging on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/autoblogging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/autoblogging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Services Oriented Architecture (SOA)?</title>
-      <link>/posts/what-is-service-oriented-architecture/</link>
+      <link>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what-is-service-oriented-architecture/</guid>
+      <guid>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</guid>
       <description>Service Oriented Architecture, or SOA, is a type of software design that focuses on creating reusable services. This approach to software design is intended to make life easier for developers, by providing them with building blocks that can be reused in different ways to create new applications.
 In theory, SOA sounds like a great idea. However, in practice, it can be quite difficult to achieve. This is because different services need to be able to work together seamlessly in order for the overall system to function correctly.</description>
     </item>
     
     <item>
       <title>What is Blockchain Technology?</title>
-      <link>/posts/what-is-blockchain-technology/</link>
+      <link>https://0xrommel.dev/posts/what-is-blockchain-technology/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what-is-blockchain-technology/</guid>
+      <guid>https://0xrommel.dev/posts/what-is-blockchain-technology/</guid>
       <description>If you&amp;rsquo;ve been keeping up with the latest in the tech world, you&amp;rsquo;ve probably heard of blockchain technology. But what is it? In its simplest form, a blockchain is a digital ledger of transactions. But what makes it so special is that it&amp;rsquo;s distributed across a network of computers, making it virtually tamper-proof. That means that blockchain technology has the potential to revolutionize everything from how we store data to how we conduct transactions.</description>
     </item>
     
     <item>
       <title>What is Ethereum?</title>
-      <link>/posts/what-is-ethereum/</link>
+      <link>https://0xrommel.dev/posts/what-is-ethereum/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what-is-ethereum/</guid>
+      <guid>https://0xrommel.dev/posts/what-is-ethereum/</guid>
       <description>Ethereum is a programmable blockchain. It&amp;rsquo;s basically a global computer that anyone can use. It&amp;rsquo;s like the internet, except instead of connecting people, it connects computers. And instead of hosting websites, it runs programs.
 Introduction Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.
 Ethereum is a public blockchain-based platform that enables the development of decentralized applications (dapps) and smart contracts.</description>
@@ -39,10 +39,10 @@ Ethereum is a public blockchain-based platform that enables the development of d
     
     <item>
       <title>What are Restful APIs?</title>
-      <link>/posts/what-are-restful-apis/</link>
+      <link>https://0xrommel.dev/posts/what-are-restful-apis/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/what-are-restful-apis/</guid>
+      <guid>https://0xrommel.dev/posts/what-are-restful-apis/</guid>
       <description>If you&amp;rsquo;re a developer, then you&amp;rsquo;ve probably heard of RESTful APIs. But what are they, and why are they so popular?
 In this blog post, we&amp;rsquo;ll take a look at what RESTful APIs are, and why they&amp;rsquo;re such a popular choice for developers. We&amp;rsquo;ll also explore some of the most common use cases for RESTful APIs.
 Introduction to Restful APIs An API is an application programming interface. It is a set of rules that allow programs to talk to each other.</description>
