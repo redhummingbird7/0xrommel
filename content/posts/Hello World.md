@@ -33,7 +33,7 @@ Hope you like it. Just want to get the first post out of the way.
 
 Here's where I'll blog about technology mostly.
 
-Thanks for visiting! :) :)
+Thanks for visiting! :) :) :)
 
 Bye,\
 Rommel
