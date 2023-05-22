@@ -46,7 +46,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 **2. You should have already installed Hugo on your machine**
 
-- Try to get the latest [Hugo release](https://gohugo.io/getting-started/installing/).
+- Try to get the latest [Hugo release](https://gohugo.io/getting-started/installing/). If you haven't installed Hugo yet, check [Hugo's quick start guide](https://gohugo.io/getting-started/quick-start/) to get started.
 
 **3. You should already have a Github account**
 
