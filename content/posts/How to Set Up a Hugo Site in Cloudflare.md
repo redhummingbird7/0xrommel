@@ -90,6 +90,8 @@ Make sure to replace the above **"your-site-name-here"** text with a name for yo
 
 **5. Download and use a Hugo theme for your site.**
 
+Important! Always check the theme's quick start page. It would usually contain instructions on how to install the theme. It could be different from below and I suggest that you follow it instead.
+
 For this tutorial, I am using the **Clarity** theme. Feel free to use other themes. Some of them are in https://themes.gohugo.io/. Check them out. I'd suggest pick some simple themes (or the one below) just to lessen possible complexity. Themes can be changed in the future as needed.
 
     git submodule add https://github.com/chipzoller/hugo-clarity themes/hugo-clarity
