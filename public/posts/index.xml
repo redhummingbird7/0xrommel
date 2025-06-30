@@ -6,214 +6,174 @@
     <description>Recent content in Posts on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluetooth Headset Not Working with MS Teams</title>
+      <link>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</guid>
+      <description>Hope this can help someone going through a similar issue. Issue : I used MS Teams for meetings with colleagues and for some reason my Bluetooth headphone (Mpow H7) stopped working. I use it as speaker and there was just no sound coming out. It used to work before, so I&amp;rsquo;m not quite sure what went wrong. I&amp;rsquo;m suspecting some update could have change some setting or changed something.</description>
+    </item>
     <item>
       <title>What is the Solidity Programming Language?</title>
       <link>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</guid>
       <description>The Solidity language is a programming language designed to create smart contracts. Smart contracts are a type of contract that can be used to create enforceable agreements between two or more parties. They are often used in the context of the blockchain, which is a distributed ledger of all cryptocurrency transactions. The programming language interacts with the Ethereum Virtual Machine (EVM), which is the abstraction layer between the executing code and execution machine.</description>
     </item>
-    
     <item>
       <title>How to Use Custom CSS on Hugo Site (With Pictures)</title>
       <link>https://0xrommel.dev/posts/how-to-use-custom-css-on-hugo-site/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/how-to-use-custom-css-on-hugo-site/</guid>
       <description>After setting up your Hugo site for the first time, next thing to do is to customize it to your own liking. One of the more common things you have to do is to change some of the styling (CSS).
 Here&amp;rsquo;s how to do it.
 Note: I use Visual Studio code (VS Code). My IDE of choice. All steps below were executed from VSC. Should be doable as well from a different IDE.</description>
     </item>
-    
     <item>
       <title>How to Set up a Hugo Site In Cloudflare (With Pictures)</title>
       <link>https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/how-to-set-up-a-hugo-site-in-cloudflare/</guid>
       <description>Prerequisites 1. You should have a Cloudflare account
 If you don&amp;rsquo;t have one, it&amp;rsquo;s easy to register and it&amp;rsquo;s free to start. It does a have paid premium service but all of the Cloudflare services that we&amp;rsquo;ll use below are all free. 2. You should have already installed Hugo on your machine
-Try to get the latest Hugo release. 3. You should already have a Github account
-Register for a new one if don&amp;rsquo;t have one yet.</description>
+Try to get the latest Hugo release. If you haven&amp;rsquo;t installed Hugo yet, check Hugo&amp;rsquo;s quick start guide to get started.</description>
     </item>
-    
     <item>
       <title>Who Not How - Book Review</title>
       <link>https://0xrommel.dev/posts/who-not-how/</link>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/who-not-how/</guid>
       <description>I got introduced to this book via listening to different podcasts. I can&amp;rsquo;t remember now which specific podcasts but they were quite a few and the book has always been highly rated by those who mentioned it.
 And, so it got me curious and here&amp;rsquo;s my review of the book, &amp;ldquo;Who Not How&amp;rdquo; by Dan Sullivan and Dr. Benjamin Hardy.
 1. What is the book all about The main promises of the book are:</description>
     </item>
-    
     <item>
       <title>What is Services Oriented Architecture (SOA)?</title>
       <link>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</guid>
       <description>Service Oriented Architecture, or SOA, is a type of software design that focuses on creating reusable services. This approach to software design is intended to make life easier for developers, by providing them with building blocks that can be reused in different ways to create new applications.
 In theory, SOA sounds like a great idea. However, in practice, it can be quite difficult to achieve. This is because different services need to be able to work together seamlessly in order for the overall system to function correctly.</description>
     </item>
-    
     <item>
       <title>Is Python the Easiest Programming Language to Learn?</title>
       <link>https://0xrommel.dev/posts/is-python-the-easiest-language-to-learn/</link>
       <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/is-python-the-easiest-language-to-learn/</guid>
       <description>This is a question that has been asked by literally thousands of programmers (and non-programmers) who are interested in programming. If you have an opinion, let us know.
 The basic answer is: Of course it is!
 The truth is, anyone can learn to program, you just need the right resources, and the right attitude.
 The easiest programming language to learn is the language that you have a natural affinity for. Most programmers who are good at programming, learned a language or two by themselves.</description>
     </item>
-    
     <item>
       <title>What is the Ethereum Merge?</title>
       <link>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</guid>
       <description>Introduction The &amp;ldquo;Merge&amp;rdquo; was the final phase in Ethereum&amp;rsquo;s strategy to transition from a proof-of-work (POW) consensus system to a proof-of-stake (POS) consensus mechanism. But what exactly does this signify? How will it influence ethereum?
 An Analogy Imagine you&amp;rsquo;re in San Francisco when the city is just getting started and attracting millions of individuals from all over the world. While it is exhilarating at initially, as more people arrive, there are challenges that arise.</description>
     </item>
-    
     <item>
       <title>Microservices vs Monolith Application</title>
       <link>https://0xrommel.dev/posts/microservices-vs-monolith/</link>
       <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/microservices-vs-monolith/</guid>
       <description>What are microservices? How do they relate to other architectures? Is the monolith vs. microservices question resolved? What are the downsides of using microservices architecture? Let&amp;rsquo;s get to it!
 What are Microservices? Microservices, as defined by James Marten, are small units of software, built around a single business capability. These are typically encapsulated and self-contained. Each unit, even if it is very small, is completely reusable. A set of microservices is called a domain.</description>
     </item>
-    
     <item>
       <title>What are Microservices in Software Engineering?</title>
       <link>https://0xrommel.dev/posts/what-are-microservices/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-are-microservices/</guid>
       <description>Microservices architecture. Microservice architecture sounds a lot more complicated than it is. In simple terms, the architecture comprises small independent services that work closely together but ultimately fulfill a specific purpose. These services solve various software development problems through unique processes.
 Microservices, or microservices architecture, is an approach to application development in which a large application is built from modular components or services. Each module supports a specific task or business goal and uses a simple, well-defined interface, such as an application programming interface (API), to communicate with other sets of services.</description>
     </item>
-    
     <item>
       <title>What is Agile Methodology?</title>
       <link>https://0xrommel.dev/posts/what-is-agile-methodology/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-agile-methodology/</guid>
       <description>What is agile methodology? The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
 Agile is a powerful mindset that simplified not only the world of software development, but is working for many times outside the IT sector.</description>
     </item>
-    
     <item>
       <title>Seven Best Programming Languages To Learn</title>
       <link>https://0xrommel.dev/posts/best-programming-languages-to-learn/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/best-programming-languages-to-learn/</guid>
       <description>1. Java Java is a general-purpose, object-oriented computer programming language developed by Sun Microsystems. Java was designed to make software portable across different platforms and devices. Java is often associated with the Internet and web applications due to its use in many web browsers and server programs.
 2. C++ C++ (pronounced /ˈkɒpstʃ/), short for C with Classes, is a general purpose, imperative, class-based procedural programming language. It supports object orientation, modularity, exception handling, data abstraction, and dynamic memory allocation.</description>
     </item>
-    
     <item>
       <title>What is Object Oriented Programming?</title>
       <link>https://0xrommel.dev/posts/what-is-object-oriented-programming/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-object-oriented-programming/</guid>
       <description>OOP (Object Oriented Programming) Object Oriented Programming (OOP) is a programming paradigm that emphasizes the use of objects, or modules, to create self-sufficient software applications. OOP is seen as a way of reducing the redundancy and coupling in code, and it has become the most popular programming approach in recent years.
 The basic concepts of object-oriented programming are that objects are self-sufficient modules of code. These modules can be reused throughout the application, which reduces redundancy and the amount of code that needs to be written.</description>
     </item>
-    
     <item>
       <title>Five Ways to Become a Good Software Developer</title>
       <link>https://0xrommel.dev/posts/5-ways-to-become-good-software-developer/</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/5-ways-to-become-good-software-developer/</guid>
       <description>1. Learn how to learn Learning is not only about memorizing facts and figures; learning is about understanding concepts and applying them to solve problems. Learning is a continuous process where we constantly improve ourselves. We learn something new everyday and we should always try to learn new things. If you want to become a good software engineer, then you need to understand what makes a good software developer. You have to know how to learn.</description>
     </item>
-    
-    <item>
-      <title>Five Ways to Become a Good Software Developer</title>
-      <link>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</guid>
-      <description>1. Learn how to learn Learning is not only about memorizing facts and figures; learning is about understanding concepts and applying them to solve problems. Learning is a continuous process where we constantly improve ourselves. We learn something new everyday and we should always try to learn new things. If you want to become a good software engineer, then you need to understand what makes a good software developer. You have to know how to learn.</description>
-    </item>
-    
     <item>
       <title>What is Blockchain Technology?</title>
       <link>https://0xrommel.dev/posts/what-is-blockchain-technology/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-blockchain-technology/</guid>
       <description>If you&amp;rsquo;ve been keeping up with the latest in the tech world, you&amp;rsquo;ve probably heard of blockchain technology. But what is it? In its simplest form, a blockchain is a digital ledger of transactions. But what makes it so special is that it&amp;rsquo;s distributed across a network of computers, making it virtually tamper-proof. That means that blockchain technology has the potential to revolutionize everything from how we store data to how we conduct transactions.</description>
     </item>
-    
     <item>
       <title>What is Ethereum?</title>
       <link>https://0xrommel.dev/posts/what-is-ethereum/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-ethereum/</guid>
       <description>Ethereum is a programmable blockchain. It&amp;rsquo;s basically a global computer that anyone can use. It&amp;rsquo;s like the internet, except instead of connecting people, it connects computers. And instead of hosting websites, it runs programs.
 Introduction Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.
 Ethereum is a public blockchain-based platform that enables the development of decentralized applications (dapps) and smart contracts.</description>
     </item>
-    
     <item>
       <title>What is DevOps and Why it Matters for IT</title>
       <link>https://0xrommel.dev/posts/what-is-devops/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-devops/</guid>
       <description>What is Devops? DevOps is a set of principles and practices that emphasize communication, collaboration, integration, and automation between software developers and information technology (IT) professionals.
 The idea behind devops is to provide a more efficient way of managing the application lifecycle through automation. This saves time for both team members as well as customers by ensuring that there are fewer errors in production. Devops includes many different practices such as Continuous Integration, Continuous Delivery, Infrastructure as Code, Version Control Systems like Git or SVN, Automated Testing Tools like Selenium or Appium etc.</description>
     </item>
-    
     <item>
       <title>What are Restful APIs?</title>
       <link>https://0xrommel.dev/posts/what-are-restful-apis/</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-are-restful-apis/</guid>
       <description>If you&amp;rsquo;re a developer, then you&amp;rsquo;ve probably heard of RESTful APIs. But what are they, and why are they so popular?
 In this blog post, we&amp;rsquo;ll take a look at what RESTful APIs are, and why they&amp;rsquo;re such a popular choice for developers. We&amp;rsquo;ll also explore some of the most common use cases for RESTful APIs.
 Introduction to Restful APIs An API is an application programming interface. It is a set of rules that allow programs to talk to each other.</description>
     </item>
-    
     <item>
       <title>What is Enterprise Service Bus (ESB)?</title>
       <link>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</guid>
       <description>An Enterprise Service Bus (ESB) is a software system that provides connectivity between applications, services, and systems. An ESB is a core component of an SOA. An ESB provides an enterprise-wide, standardized, and scalable way for applications and components to communicate with each other. An ESB also provides a common set of protocols and standards that applications can use to communicate. An ESB can integrate disparate systems and technologies, such as legacy systems, mainframes, and web services.</description>
     </item>
-    
     <item>
       <title>Hello World</title>
       <link>https://0xrommel.dev/posts/hello-world/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/hello-world/</guid>
       <description>Hi There,
 Welcome to my blog.
 Hope you like it. Just want to get the first post out of the way.
 Here&amp;rsquo;s where I&amp;rsquo;ll blog about technology mostly.
-Thanks for visiting! :) :)
+Thanks for visiting! :) :) :)
 Bye,
 Rommel</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,25 +6,22 @@
     <description>Recent content in distributed systems on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/tags/distributed-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Services Oriented Architecture (SOA)?</title>
       <link>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-service-oriented-architecture/</guid>
       <description>Service Oriented Architecture, or SOA, is a type of software design that focuses on creating reusable services. This approach to software design is intended to make life easier for developers, by providing them with building blocks that can be reused in different ways to create new applications.
 In theory, SOA sounds like a great idea. However, in practice, it can be quite difficult to achieve. This is because different services need to be able to work together seamlessly in order for the overall system to function correctly.</description>
     </item>
-    
     <item>
       <title>What is Enterprise Service Bus (ESB)?</title>
       <link>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</guid>
       <description>An Enterprise Service Bus (ESB) is a software system that provides connectivity between applications, services, and systems. An ESB is a core component of an SOA. An ESB provides an enterprise-wide, standardized, and scalable way for applications and components to communicate with each other. An ESB also provides a common set of protocols and standards that applications can use to communicate. An ESB can integrate disparate systems and technologies, such as legacy systems, mainframes, and web services.</description>
     </item>
-    
   </channel>
 </rss>

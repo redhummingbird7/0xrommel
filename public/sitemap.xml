@@ -3,15 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://0xrommel.dev/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/bluetooth/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/categories/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/ms-teams/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/posts/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/software-engineering/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/tags/technology/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://0xrommel.dev/categories/troubleshooting/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/categories/blockchain-technology/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/tags/blockhain/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xrommel.dev/categories/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/tags/ehereum-virtual-machine/</loc>
@@ -23,19 +47,10 @@
     <loc>https://0xrommel.dev/tags/evm/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xrommel.dev/posts/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://0xrommel.dev/tags/smart-contracts/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/tags/solidity/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xrommel.dev/tags/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xrommel.dev/tags/technology/</loc>
     <lastmod>2022-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</loc>
@@ -131,9 +146,6 @@
     <loc>https://0xrommel.dev/tags/software-design/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://0xrommel.dev/tags/software-engineering/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://0xrommel.dev/categories/software-engineering/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -201,9 +213,6 @@
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/posts/5-ways-to-become-good-software-developer/</loc>
-    <lastmod>2022-03-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://0xrommel.dev/categories/it-career/</loc>

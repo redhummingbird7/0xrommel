@@ -6,26 +6,23 @@
     <description>Recent content in EVM on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/evm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/tags/evm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Solidity Programming Language?</title>
       <link>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</guid>
       <description>The Solidity language is a programming language designed to create smart contracts. Smart contracts are a type of contract that can be used to create enforceable agreements between two or more parties. They are often used in the context of the blockchain, which is a distributed ledger of all cryptocurrency transactions. The programming language interacts with the Ethereum Virtual Machine (EVM), which is the abstraction layer between the executing code and execution machine.</description>
     </item>
-    
     <item>
       <title>What is Ethereum?</title>
       <link>https://0xrommel.dev/posts/what-is-ethereum/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-ethereum/</guid>
       <description>Ethereum is a programmable blockchain. It&amp;rsquo;s basically a global computer that anyone can use. It&amp;rsquo;s like the internet, except instead of connecting people, it connects computers. And instead of hosting websites, it runs programs.
 Introduction Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.
 Ethereum is a public blockchain-based platform that enables the development of decentralized applications (dapps) and smart contracts.</description>
     </item>
-    
   </channel>
 </rss>

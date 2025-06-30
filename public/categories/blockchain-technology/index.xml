@@ -6,45 +6,38 @@
     <description>Recent content in Blockchain Technology on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/categories/blockchain-technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/categories/blockchain-technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is the Solidity Programming Language?</title>
       <link>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-the-solidity-programming-language/</guid>
       <description>The Solidity language is a programming language designed to create smart contracts. Smart contracts are a type of contract that can be used to create enforceable agreements between two or more parties. They are often used in the context of the blockchain, which is a distributed ledger of all cryptocurrency transactions. The programming language interacts with the Ethereum Virtual Machine (EVM), which is the abstraction layer between the executing code and execution machine.</description>
     </item>
-    
     <item>
       <title>What is the Ethereum Merge?</title>
       <link>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-the-ethereum-merge/</guid>
       <description>Introduction The &amp;ldquo;Merge&amp;rdquo; was the final phase in Ethereum&amp;rsquo;s strategy to transition from a proof-of-work (POW) consensus system to a proof-of-stake (POS) consensus mechanism. But what exactly does this signify? How will it influence ethereum?
 An Analogy Imagine you&amp;rsquo;re in San Francisco when the city is just getting started and attracting millions of individuals from all over the world. While it is exhilarating at initially, as more people arrive, there are challenges that arise.</description>
     </item>
-    
     <item>
       <title>What is Blockchain Technology?</title>
       <link>https://0xrommel.dev/posts/what-is-blockchain-technology/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-blockchain-technology/</guid>
       <description>If you&amp;rsquo;ve been keeping up with the latest in the tech world, you&amp;rsquo;ve probably heard of blockchain technology. But what is it? In its simplest form, a blockchain is a digital ledger of transactions. But what makes it so special is that it&amp;rsquo;s distributed across a network of computers, making it virtually tamper-proof. That means that blockchain technology has the potential to revolutionize everything from how we store data to how we conduct transactions.</description>
     </item>
-    
     <item>
       <title>What is Ethereum?</title>
       <link>https://0xrommel.dev/posts/what-is-ethereum/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-ethereum/</guid>
       <description>Ethereum is a programmable blockchain. It&amp;rsquo;s basically a global computer that anyone can use. It&amp;rsquo;s like the internet, except instead of connecting people, it connects computers. And instead of hosting websites, it runs programs.
 Introduction Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.
 Ethereum is a public blockchain-based platform that enables the development of decentralized applications (dapps) and smart contracts.</description>
     </item>
-    
   </channel>
 </rss>

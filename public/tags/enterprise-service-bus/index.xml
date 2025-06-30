@@ -6,15 +6,14 @@
     <description>Recent content in Enterprise Service Bus on 0xrommel.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0xrommel.dev/tags/enterprise-service-bus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/tags/enterprise-service-bus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Enterprise Service Bus (ESB)?</title>
       <link>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://0xrommel.dev/posts/what-is-an-enterprise-service-bus/</guid>
       <description>An Enterprise Service Bus (ESB) is a software system that provides connectivity between applications, services, and systems. An ESB is a core component of an SOA. An ESB provides an enterprise-wide, standardized, and scalable way for applications and components to communicate with each other. An ESB also provides a common set of protocols and standards that applications can use to communicate. An ESB can integrate disparate systems and technologies, such as legacy systems, mainframes, and web services.</description>
     </item>
-    
   </channel>
 </rss>

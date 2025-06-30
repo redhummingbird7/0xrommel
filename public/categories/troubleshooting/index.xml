@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on 0xrommel.dev</title>
+    <link>https://0xrommel.dev/categories/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on 0xrommel.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xrommel.dev/categories/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluetooth Headset Not Working with MS Teams</title>
+      <link>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://0xrommel.dev/posts/bluetooth-headset-not-working-with-ms-teams/</guid>
+      <description>Hope this can help someone going through a similar issue. Issue : I used MS Teams for meetings with colleagues and for some reason my Bluetooth headphone (Mpow H7) stopped working. I use it as speaker and there was just no sound coming out. It used to work before, so I&amp;rsquo;m not quite sure what went wrong. I&amp;rsquo;m suspecting some update could have change some setting or changed something.</description>
+    </item>
+  </channel>
+</rss>
