@@ -35,7 +35,7 @@ widgets: # Enable sidebar widgets in given order per page
 
 I used **MS Teams** for meetings with colleagues and for some reason my Bluetooth headphone (Mpow H7) stopped working. I use it as speaker and there was just no sound coming out. It used to work before, so I'm not quite sure what went wrong. I'm suspecting some update could have change some setting or changed something.
 
-Note that the headphone works perfectly well with Zoom and other applications. So, it isn't the hardware that has issues. It's just not working with MS Teams for some reason.
+Note that the headphone works perfectly well with Zoom and other applications. So, it isn't the hardware that has issues. It's just not working with MS Teams for some reason. **
 
 Also, would like to note, the Bluetooth headphone creates a couple of headphone options to use (see below):
 
