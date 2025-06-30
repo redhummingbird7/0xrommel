@@ -8,7 +8,7 @@ googleAnalytics = "G-0JGT25C4EM" # Enable Google Analytics by entering your trac
 
 [Author] # Used in authorbox
   name = "Rommel"
-  bio = "**Rommel** works in the software industry and based in **Vancouver, BC**. Got a BSc in Computer Engineering and likes troubleshooting issues (tech and business process). He drinks his coffee black (no sugar added). Currently, he's obsessed with Korean fried chicken."
+  bio = "**Rommel** works in the software industry and based in **Vancouver, BC**. Got a BSc in Computer Engineering and likes troubleshooting issues (tech and business process). He drinks his coffee black (no sugar added)."
   avatar = "img/0xrommel_head.jpg"
 
 [Params]
