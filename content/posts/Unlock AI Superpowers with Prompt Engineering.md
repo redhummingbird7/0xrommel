@@ -2,14 +2,15 @@
 # Common-Defined params
 title: "Unlock AI's Superpowers: The Absolute Beginner's Guide to 'Prompt Engineering' (and Why You're Already Doing It!)"
 date: "2025-07-08"
-description: "Ever wonder how Netflix knows your perfect Friday night movie? Or how your phone predicts texts before you type? That’s not magic—it’s AI in everyday life, working silently as your personal assistant. Forget sci-fi robots: real-world AI is already in your pocket, apps, and feeds, making decisions smarter and faster."
+description: "Heard the buzzword 'prompt engineering' and pictured complex code or tech wizardry? Think again! At its core, it's just learning how to have a better conversation with AI – like ChatGPT or Gemini. It's about giving clear instructions so that super-smart-but-literal assistant actually understands what you mean. And guess what? If you've ever improved a Google search query, you've already got the basic idea down!"
 
 categories:
   - "Artificial Intelligence"
 tags:
-  - "what is AI for beginners"
-  - "AI in everyday life"
-  - "simple AI examples"
+  - "prompt engineering for beginners"
+  - "how to talk to AI"
+  - "chatGPT beginner tips"
+  - "write better AI prompts"
 
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
