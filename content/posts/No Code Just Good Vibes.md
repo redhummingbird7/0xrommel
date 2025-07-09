@@ -41,7 +41,7 @@ In this guide, I'll walk you through exactly how vibe coding works, why it's exp
 ### The "Before Times": Why Coding Felt Impossible
 Remember trying to learn programming from YouTube tutorials? You'd type `print("Hello World")` feeling like a genius, only to hit a wall when real projects demanded database connections or user authentication. Traditional coding is powerful, but it's like building furniture with hand tools—slow, detail-oriented, and requiring years of practice. 
 
-The frustration wasn't just about complexity. It was about **creative disconnect**. You'd imagine a sleek workout app with progress animations, but translating that vision into Swift or JavaScript felt like solving a Rubik's cube blindfolded. Most people gave up here. 
+The frustration wasn't just about complexity. It was about **creative disconnect**. You'd imagine a sleek workout app with progress animations, but translating that vision into Swift or JavaScript felt like solving a Rubik's cube blindfolded. Most people gave up here.
 
 ### The Game Changer: AI That Understands Us
 Everything shifted when generative AI entered the scene. Tools like [OpenAI's ChatGPT](https://openai.com/blog/chatgpt) and [GitHub Copilot](https://github.com/features/copilot) started turning conversational prompts into functional code. Suddenly, you could type:
