@@ -32,7 +32,7 @@ widgets: # Enable sidebar widgets in given order per page
 ---
 ![AI Jargon Explained](/img/AI_Jargon_Explained.png "AI Jargon Explained")
 
-Feeling lost in conversations about AI? Words like "machine learning," "neural networks," and "algorithms" get thrown around constantly, leaving you nodding along without a clue. You're not alone! AI jargon can feel like a secret club language. But here's the good news: **you don't need a computer science degree to get the basics.** Think of this guide as your friendly translator. We'll break down 15 essential AI terms into plain English, using simple examples you can relate to. By the end, you’ll feel way more confident reading articles, chatting about tech news, and understanding how AI is changing our world. Let’s unlock that jargon!
+Feeling lost in conversations about AI? Words like **"machine learning"**, **"neural networks"** and **"algorithms"** get thrown around constantly, leaving you nodding along without a clue. You're not alone! AI jargon can feel like a secret club language. But here's the good news: **you don't need a computer science degree to get the basics.** Think of this guide as your friendly translator. We'll break down 15 essential AI terms into plain English, using simple examples you can relate to. By the end, you’ll feel way more confident reading articles, chatting about tech news, and understanding how AI is changing our world. Let’s unlock that jargon!
 
 ## Why Bother Learning AI Talk?
 
