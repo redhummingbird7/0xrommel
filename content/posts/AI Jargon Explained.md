@@ -122,7 +122,10 @@ Finally, **Bias** and **Ethics** are the crucial considerations we *must* keep i
 **Don't stress about memorizing every detail!** The goal is to understand these words when you hear them and get the basic idea of what they mean and how they relate. You've now got the essential pieces.
 
 ## You're Speaking AI Now!
+![Talk AI Now](/img/Talk_AI_Now.png "Talk AI Now")
 
 Look at you! Just a little while ago, terms like "neural network" or "LLM" might have sounded like total gibberish. Now, you've got a solid grasp of what they mean and how they fit into the bigger picture of artificial intelligence. You're equipped to follow those tech news stories, understand how the tools you might use every day (like maps or recommendations) actually work, and have more meaningful conversations about AI's role in our future.
 
-This is just the start of your AI adventure. The field moves fast, but you've built a strong foundation. **Bookmark this page** for when you need a quick refresher on any of these terms. Keep your curiosity alive – ask questions, try out some user-friendly AI tools (like the free versions of ChatGPT or Gemini), and stay tuned. The world of AI is fascinating, and now you're ready to explore it! Happy learning!
+This is just the start of your AI adventure. The field moves fast, but you've built a strong foundation. **Bookmark this page** for when you need a quick refresher on any of these terms. Keep your curiosity alive – ask questions, try out some user-friendly AI tools (like the free versions of ChatGPT or Gemini), and stay tuned. 
+
+#### The world of AI is fascinating, and now you're ready to explore it! Happy learning!
