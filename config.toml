@@ -7,8 +7,8 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "G-0JGT25C4EM" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "Rommel"
-  bio = "**Rommel** works in the software industry and based in **Vancouver, BC**. Got a BSc in Computer Engineering and likes troubleshooting issues (tech and business process). He drinks his coffee black (no sugar added)."
+  name = "0xRommel"
+  bio = "Based in beautiful Vancouver, BC. **Rommel** works in the software industry (20+ yrs). Likes tech and troubleshooting issues (tech and business process). Prefers his coffee black (no sugar added). Feel free to reach  out."
   avatar = "img/0xrommel_head_red.jpg"
 
 [Params]
