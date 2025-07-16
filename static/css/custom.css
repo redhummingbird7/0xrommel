@@ -16,3 +16,7 @@ p img {
 .widget__link {
   font-size: .95rem;
 }
+
+.widget-taglist__link {
+  font-size: 12px !important;
+}
