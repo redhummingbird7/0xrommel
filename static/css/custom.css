@@ -4,3 +4,15 @@ p img {
   box-shadow: 3px 2px 2px darkgrey;
   border: 2px solid lightgray;
 }
+
+.authorbox {
+  font-size: .90rem;
+}
+
+.post {
+  font-size: 1rem;
+}
+
+.widget__link {
+  font-size: .95rem;
+}
