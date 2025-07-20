@@ -45,6 +45,13 @@
 		{{ template "_internal/google_analytics.html" . }}
 	{{- end }}
 	{{ partial "adsense.html" . }}
+	{{ if eq .Kind "page" }}
+  		{{ if isset .Params "canonical" }}
+    <link rel="canonical" href="{{ .Params.canonical }}" />
+  		{{ else }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+  		{{ end }}
+	{{ end }}	
 </head>
 <body class="body">
 	<div class="container container--outer">
