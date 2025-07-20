@@ -34,7 +34,7 @@ I've been adding a bunch of articles lately (mostly [AI related](https://0xromme
 
 The tag list is a common feature available on a lot of websites. It helps visitors navigate content quickly by topic they are interested in. This site uses [Hugo](https://gohugo.io/) so we'll break down a typical Hugo template snippet for a tag list widget. Then, we'll explore how to customize it to show the most popular tags at the top first and then limit the number of tags that shows. 
 
-Before we go to the code, first thing to do is create a copy of the template file from your theme and place it on your partials folder. I use the Mainroad theme and the taglist code is located in the file: partials/widgets/taglist.html.
+Before we go to the code, first thing to do is create a copy of the template file from your theme and place it on your partials folder. I use the Mainroad theme and the taglist code is located in the file: **partials/widgets/taglist.html**.
 
 Here's the original code snippet we'll be looking at:
 
