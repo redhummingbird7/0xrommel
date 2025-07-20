@@ -2,7 +2,7 @@
 # Common-Defined params
 title: "No Code, Just Good Vibes: What 'Vibe Coding' Is and How AI is Changing How We Build"
 date: "2025-07-09"
-description: ""
+description: "Discover what vibe coding is: build apps with AI using plain English, no coding skills needed. Learn how AI turns your ideas into working software fast."
 
 categories:
   - "Artificial Intelligence"
